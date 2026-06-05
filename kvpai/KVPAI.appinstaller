@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-update manifest for KVPAI (signed MSIX, sideloaded).
+
+     Windows' App Installer re-reads this file from its Uri on every launch and,
+     when Version is higher than the installed package, downloads + installs the
+     new MainBundle in the background. No in-app update code is needed.
+
+     The release tooling stamps 1.2.0.0 from the release version and commits
+     this file + the .msixbundle to the PUBLIC distribution repo
+     (KelbyVP/app-releases) under kvpai/ on the main branch — source stays in
+     the private repo. Hosting the files in-repo gives stable raw URLs and lets
+     publishing happen with a plain `git push` (no Releases API needed).
+
+     Name + Publisher MUST exactly match KVPAI/Package.appxmanifest
+     (Name=7eac8be9-be6d-48c2-bce5-63ddc0c51afa, Publisher=CN=kelby). -->
+<AppInstaller
+    xmlns="http://schemas.microsoft.com/appx/appinstaller/2018"
+    Version="1.2.0.0"
+    Uri="https://raw.githubusercontent.com/KelbyVP/app-releases/main/kvpai/KVPAI.appinstaller">
+
+  <MainBundle
+      Name="7eac8be9-be6d-48c2-bce5-63ddc0c51afa"
+      Publisher="CN=kelby"
+      Version="1.2.0.0"
+      Uri="https://raw.githubusercontent.com/KelbyVP/app-releases/main/kvpai/KVPAI_x64.msixbundle" />
+
+  <UpdateSettings>
+    <!-- Check on launch; apply in the background without blocking startup. -->
+    <OnLaunch HoursBetweenUpdateChecks="0" UpdateBlocksActivation="false" ShowPrompt="true" />
+    <AutomaticBackgroundTask />
+  </UpdateSettings>
+</AppInstaller>
