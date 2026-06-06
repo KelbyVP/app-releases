@@ -1,5 +1,5 @@
 {
-    "version":  "1.10.23",
+    "version":  "1.10.24",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Backdate snapshot-only-account lots to earliest cross-account txn (fixes pre-snapshot portfolio chart and SPY-equivalent baseline)."
+    "notes":  "Revert cross-account backdating from 1.10.23. Snapshot lots stay per-account anchored (no inventing history from unrelated accounts)."
 }
