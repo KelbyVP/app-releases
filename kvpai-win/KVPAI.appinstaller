@@ -16,13 +16,13 @@
 <AppInstaller
     xmlns="http://schemas.microsoft.com/appx/appinstaller/2018"
     Version="1.2.0.0"
-    Uri="https://raw.githubusercontent.com/KelbyVP/app-releases/main/kvpai/KVPAI.appinstaller">
+    Uri="https://raw.githubusercontent.com/KelbyVP/app-releases/main/kvpai-win/KVPAI.appinstaller">
 
   <MainBundle
       Name="7eac8be9-be6d-48c2-bce5-63ddc0c51afa"
       Publisher="CN=kelby"
       Version="1.2.0.0"
-      Uri="https://raw.githubusercontent.com/KelbyVP/app-releases/main/kvpai/KVPAI_x64.msixbundle" />
+      Uri="https://raw.githubusercontent.com/KelbyVP/app-releases/main/kvpai-win/KVPAI_x64.msixbundle" />
 
   <UpdateSettings>
     <!-- Check on launch; apply in the background without blocking startup. -->
