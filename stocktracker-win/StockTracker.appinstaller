@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto-update manifest for KVP Stock Tracker (Windows, signed MSIX).
+     Windows App Installer re-reads this on launch and installs newer versions.
+     Name/Publisher/Architecture must match the MSIX's Identity exactly. -->
+<AppInstaller
+    xmlns="http://schemas.microsoft.com/appx/appinstaller/2018"
+    Version="1.10.20.0"
+    Uri="https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/StockTracker.appinstaller">
+
+  <MainPackage
+      Name="KelbyVP.KVPStockTracker"
+      Publisher="CN=kelby"
+      Version="1.10.20.0"
+      ProcessorArchitecture="x64"
+      Uri="https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix" />
+
+  <UpdateSettings>
+    <OnLaunch HoursBetweenUpdateChecks="0" UpdateBlocksActivation="false" ShowPrompt="true" />
+    <AutomaticBackgroundTask />
+  </UpdateSettings>
+</AppInstaller>

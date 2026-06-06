@@ -1,6 +1,5 @@
 {
   "version": "1.10.20",
   "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker/kvp-stock-tracker-arm64.apk",
-  "notes": "Auto-update enabled build.",
-  "windowsSetupUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker/kvp-stock-tracker-windows-setup.exe"
+  "notes": "Auto-update enabled build."
 }
