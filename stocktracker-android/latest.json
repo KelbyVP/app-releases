@@ -1,5 +1,5 @@
 {
-  "version": "1.10.21",
-  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-  "notes": "Auto-update enabled build."
+    "version":  "1.10.22",
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
+    "notes":  "Fix TWR drop on transfer-in lots (cash flow uses market value, not cost basis). Switch MSIX signing to in-store cert thumbprint."
 }
