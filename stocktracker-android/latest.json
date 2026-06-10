@@ -1,5 +1,5 @@
 {
-    "version":  "1.10.25",
+    "version":  "1.10.26",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Bonds now classify and price correctly (no more 404; avg cost/gain/day populate); today\u0027s gain $/% added to the top bar."
+    "notes":  "Bonds classify and price correctly (no 404; avg cost/gain/day populate); today\u0027s gain $/% in the top bar; Windows in-app version label now tracks the release."
 }
