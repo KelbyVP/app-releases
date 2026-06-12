@@ -1,5 +1,5 @@
 {
-  "version": "1.10.27",
-  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-  "notes": "Upgrade Flutter/Dart SDK and deps; fix Drive sync reconcile prompt"
+    "version":  "1.10.28",
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
+    "notes":  "Compact K/M/B percent format (no scientific notation); ZHGIDX held flat at cost basis; auto-scroll focused row in Positions/Bars"
 }
