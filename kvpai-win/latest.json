@@ -1,0 +1,5 @@
+{
+    "version":  "1.3.7",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kvpai-win/KVPAI_x64.msixbundle",
+    "notes":  "In-app auto-update (downloads MSIX bundle, opens App Installer)"
+}
