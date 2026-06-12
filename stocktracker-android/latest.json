@@ -1,5 +1,5 @@
 {
-    "version":  "1.10.30",
+    "version":  "1.10.31",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Fix Google Drive sign-in on first-time setup (Android)"
+    "notes":  "Fix double-counted Vanguard positions after device merge"
 }

@@ -1,6 +1,6 @@
 {
-    "version":  "1.10.30",
+    "version":  "1.10.31",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Fix Google Drive sign-in on first-time setup (Android)"
+    "notes":  "Fix double-counted Vanguard positions after device merge"
 }
