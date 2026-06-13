@@ -1,6 +1,6 @@
 {
-    "version":  "1.10.31",
+    "version":  "1.10.32",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Fix double-counted Vanguard positions after device merge"
+    "notes":  "Industry/sector + company-name labels per holding and hideable position columns; phone Positions header overflow fix, summary-tile reorder + account-filter restack, Windows window size/position persistence, Drive auth email via about.get."
 }
