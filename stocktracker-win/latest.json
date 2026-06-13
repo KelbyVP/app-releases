@@ -1,6 +1,6 @@
 {
-    "version":  "1.10.32",
+    "version":  "1.10.33",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Industry/sector + company-name labels per holding and hideable position columns; phone Positions header overflow fix, summary-tile reorder + account-filter restack, Windows window size/position persistence, Drive auth email via about.get."
+    "notes":  "Overview tab is now Windows-only (on phones it was one long scroll); Android lands on the Chart tab. Column-hiding still available via the Positions tab."
 }

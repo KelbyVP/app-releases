@@ -1,5 +1,5 @@
 {
-    "version":  "1.10.32",
+    "version":  "1.10.33",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Industry/sector + company-name labels per holding and hideable position columns; phone Positions header overflow fix, summary-tile reorder + account-filter restack, Windows window size/position persistence, Drive auth email via about.get."
+    "notes":  "Overview tab is now Windows-only (on phones it was one long scroll); Android lands on the Chart tab. Column-hiding still available via the Positions tab."
 }
