@@ -1,6 +1,6 @@
 {
-    "version":  "1.10.33",
+    "version":  "1.10.34",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Overview tab is now Windows-only (on phones it was one long scroll); Android lands on the Chart tab. Column-hiding still available via the Positions tab."
+    "notes":  "Import Principal 401(k)/IRA accounts from Quicken (.qfx) downloads."
 }
