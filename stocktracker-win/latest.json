@@ -1,6 +1,6 @@
 {
-    "version":  "1.10.34",
+    "version":  "1.10.35",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Import Principal 401(k)/IRA accounts from Quicken (.qfx) downloads."
+    "notes":  "Principal import now lists by name any fund whose ticker couldn\u0027t be found, so you can edit it in the Lots tab."
 }
