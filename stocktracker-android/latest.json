@@ -1,5 +1,5 @@
 {
-    "version":  "1.10.38",
+    "version":  "1.10.39",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Fix portfolio double-counting: importing a positions snapshot plus transaction history no longer inflates totals (cross-account snapshot mislabel + stacked pre-window filler lots). Imports now flag cross-account duplicates for confirmation."
+    "notes":  "Watch companions: new Garmin glance app (Fenix 8, Forerunner 955/965) showing your live total and today\u0027s gain, plus Wear OS improvements - the phone now keeps the watch app auto-updated over Bluetooth, with tap/long-press to refresh and tile display fixes. Also fixes a rare double-counting of portfolio totals across accounts and stacked positions."
 }
