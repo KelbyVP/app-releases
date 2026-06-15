@@ -1,6 +1,6 @@
 {
-    "version":  "1.10.36",
+    "version":  "1.10.37",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Wear OS companion app: see your portfolio total and today\u0027s gain on a paired watch (app + Tile), and tap to refresh. The phone also refreshes prices when you return to it."
+    "notes":  "Watch sync: phone uploads holdings to the relay for the Garmin / Wear OS watch companions"
 }
