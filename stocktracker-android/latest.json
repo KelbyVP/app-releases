@@ -1,5 +1,5 @@
 {
-    "version":  "1.10.35",
+    "version":  "1.10.36",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Principal import now lists by name any fund whose ticker couldn\u0027t be found, so you can edit it in the Lots tab."
+    "notes":  "Wear OS companion app: see your portfolio total and today\u0027s gain on a paired watch (app + Tile), and tap to refresh. The phone also refreshes prices when you return to it."
 }
