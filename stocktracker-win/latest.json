@@ -1,6 +1,6 @@
 {
-    "version":  "1.10.45",
+    "version":  "1.10.46",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Selling shares now updates correctly: when you re-import your positions, the app trusts your broker\u0027s current share count instead of keeping sold shares. Holdings in different accounts are no longer mistaken for duplicates. Re-importing a newer positions export updates the total instead of doubling it. When a sale\u0027s tax lots aren\u0027t in the file, the app assumes FIFO and shows how to make it exact."
+    "notes":  "Importing a positions file no longer asks you to pick a date — the app reads the \u0027as of\u0027 date from the file (or the file\u0027s download time), so re-imports just work. Plus the prior fixes: sales update correctly on re-import, holdings in different accounts aren\u0027t treated as duplicates, and a newer positions export updates the total instead of doubling it."
 }
