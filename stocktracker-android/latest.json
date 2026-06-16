@@ -1,5 +1,5 @@
 {
-    "version":  "1.10.46",
+    "version":  "1.10.47",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Importing a positions file no longer asks you to pick a date — the app reads the \u0027as of\u0027 date from the file (or the file\u0027s download time), so re-imports just work. Plus the prior fixes: sales update correctly on re-import, holdings in different accounts aren\u0027t treated as duplicates, and a newer positions export updates the total instead of doubling it."
+    "notes":  "Top bar: new S\u0026P 500 daily % chip next to Today (%), plus a Stingrays chip showing today\u0027s gain/loss in base Corvette Stingrays (green/red, 2 decimals) with a C8 silhouette icon that fills left-to-right by the fraction."
 }
