@@ -1,5 +1,5 @@
 {
-    "version":  "1.10.47",
+    "version":  "1.10.48",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Top bar: new S\u0026P 500 daily % chip next to Today (%), plus a Stingrays chip showing today\u0027s gain/loss in base Corvette Stingrays (green/red, 2 decimals) with a C8 silhouette icon that fills left-to-right by the fraction."
+    "notes":  "Stingrays chip: the icon is now a proper C8 Corvette Stingray silhouette (traced from a Stingray sketch), tinted green/red and filled left-to-right by the fraction of a Stingray gained or lost today."
 }
