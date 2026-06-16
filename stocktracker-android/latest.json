@@ -1,5 +1,5 @@
 {
-    "version":  "1.10.41",
+    "version":  "1.10.42",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Chart tab: pinch-to-zoom and pan the graphs, with smoother tooltip handling. Plus clearer wording in the Watch sync dialog."
+    "notes":  "Virtual portfolios: save named groups of stocks (across accounts) and view each as one portfolio."
 }
