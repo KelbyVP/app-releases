@@ -1,6 +1,6 @@
 {
-    "version":  "1.10.40",
+    "version":  "1.10.41",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Windows: the Overview and Positions tabs now keep separate column choices - changing which columns show in one tab no longer changes the other."
+    "notes":  "Chart tab: pinch-to-zoom and pan the graphs, with smoother tooltip handling. Plus clearer wording in the Watch sync dialog."
 }
