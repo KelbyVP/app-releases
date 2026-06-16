@@ -1,6 +1,6 @@
 {
-    "version":  "1.10.42",
+    "version":  "1.10.43",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Virtual portfolios: save named groups of stocks (across accounts) and view each as one portfolio."
+    "notes":  "Account filter and virtual portfolios are now a single View dropdown."
 }
