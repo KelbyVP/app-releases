@@ -1,6 +1,6 @@
 {
-    "version":  "1.10.39",
+    "version":  "1.10.40",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Watch companions: new Garmin glance app (Fenix 8, Forerunner 955/965) showing your live total and today\u0027s gain, plus Wear OS improvements - the phone now keeps the watch app auto-updated over Bluetooth, with tap/long-press to refresh and tile display fixes. Also fixes a rare double-counting of portfolio totals across accounts and stacked positions."
+    "notes":  "Windows: the Overview and Positions tabs now keep separate column choices - changing which columns show in one tab no longer changes the other."
 }
