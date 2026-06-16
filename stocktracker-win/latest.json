@@ -1,6 +1,6 @@
 {
-    "version":  "1.10.48",
+    "version":  "1.10.49",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Stingrays chip: the icon is now a proper C8 Corvette Stingray silhouette (traced from a Stingray sketch), tinted green/red and filled left-to-right by the fraction of a Stingray gained or lost today."
+    "notes":  "Stingrays chip: the unlit (not-yet-earned) part of the C8 Corvette now shows the line-art sketch instead of a faint silhouette, so it\u0027s clearly visible; the lit part still fills solid green/red left-to-right."
 }
