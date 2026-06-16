@@ -1,5 +1,5 @@
 {
-    "version":  "1.10.49",
+    "version":  "1.10.50",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Stingrays chip: the unlit (not-yet-earned) part of the C8 Corvette now shows the line-art sketch instead of a faint silhouette, so it\u0027s clearly visible; the lit part still fills solid green/red left-to-right."
+    "notes":  "Stingrays tile is now configurable: a new Settings item (in the menu) lets you turn the tile on/off, rename it, set the price of one unit, and upload your own icon/photo (defaults to the Corvette). Custom images fill full-colour left-to-right over a greyed background."
 }
