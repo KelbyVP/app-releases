@@ -1,5 +1,5 @@
 {
-    "version":  "1.10.44",
+    "version":  "1.10.45",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Today\u0027s gain now uses the correct prior-session close (fixes wrong up/down %). Account filter restored to multi-select checkboxes alongside virtual portfolios. Prices auto-refresh during market hours. Deleting a virtual portfolio now syncs across devices."
+    "notes":  "Selling shares now updates correctly: when you re-import your positions, the app trusts your broker\u0027s current share count instead of keeping sold shares. Holdings in different accounts are no longer mistaken for duplicates. Re-importing a newer positions export updates the total instead of doubling it. When a sale\u0027s tax lots aren\u0027t in the file, the app assumes FIFO and shows how to make it exact."
 }
