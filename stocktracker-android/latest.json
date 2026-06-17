@@ -1,5 +1,5 @@
 {
     "version":  "1.10.50",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Stingrays tile is now configurable: a new Settings item (in the menu) lets you turn the tile on/off, rename it, set the price of one unit, and upload your own icon/photo (defaults to the Corvette). Custom images fill full-colour left-to-right over a greyed background."
+    "notes":  "Ticker search across Overview, Positions, and Bars tabs with cross-tab sync; new configurable \u0027Stingrays today\u0027 gain chip plus an S\u0026P 500 today-% readout; price refresh now retries up to 3x on failure; fixed spurious tab switches and synced the focused ticker between Positions and Bars; version-display cleanup."
 }
