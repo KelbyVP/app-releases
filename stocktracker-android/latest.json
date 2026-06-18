@@ -1,5 +1,5 @@
 {
-    "version":  "1.10.54",
+    "version":  "1.10.55",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Fix double-counting when re-importing transaction history (stale pre-window filler lots are now dropped once the real buy arrives). Existing data self-heals on launch."
+    "notes":  "Fix Vanguard import: a download now makes that account match your actual holdings. Positions you sold out (no longer in the download) are removed, and the settlement fund no longer stacks old balances. Re-import your Vanguard file after updating to clean up."
 }
