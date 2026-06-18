@@ -1,5 +1,5 @@
 {
-    "version":  "1.10.51",
+    "version":  "1.10.52",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Ticker search across Overview, Positions, and Bars tabs with cross-tab sync; new configurable \u0027Stingrays today\u0027 gain chip plus an S\u0026P 500 today-% readout; price refresh now retries up to 3x on failure; fixed spurious tab switches and synced the focused ticker between Positions and Bars; version-display cleanup."
+    "notes":  "Watch relay now updates whenever holdings change on any device (incl. edits synced in from another device via Drive), so the Garmin glance reflects portfolio corrections — not just live price moves."
 }
