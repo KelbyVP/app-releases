@@ -1,6 +1,6 @@
 {
-    "version":  "1.10.53",
+    "version":  "1.10.54",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Cross-device watch relay sync plus on-watch diagnostics. UI polish: search bar toggle, active sort-column chip, arrow indicators, settings dialog."
+    "notes":  "Fix double-counting when re-importing transaction history (stale pre-window filler lots are now dropped once the real buy arrives). Existing data self-heals on launch."
 }
