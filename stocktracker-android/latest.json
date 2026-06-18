@@ -1,5 +1,5 @@
 {
-    "version":  "1.10.55",
+    "version":  "1.10.56",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Fix Vanguard import: a download now makes that account match your actual holdings. Positions you sold out (no longer in the download) are removed, and the settlement fund no longer stacks old balances. Re-import your Vanguard file after updating to clean up."
+    "notes":  "New Fund tab: compare your holdings against a fund target allocation. Each stock shows its actual % of fund value vs its target as a deviation bar; tap a stock to ignore it and the rest renormalize. Toggle Absolute (percentage points) vs Relative (% of target) deviation. Includes the built-in KVP AI fund and lets you create your own funds; syncs across devices."
 }
