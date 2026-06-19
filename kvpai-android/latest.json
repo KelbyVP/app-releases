@@ -1,5 +1,5 @@
 {
-    "version":  "1.1.9",
+    "version":  "1.1.10",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kvpai-android/kvpai-android-arm64.apk",
-    "notes":  "Investor Profile: personalize your KVPAI allocation with a short questionnaire anchored on analyst consensus. The customized allocation now drives your displayed portfolio."
+    "notes":  "Cloud sync enabled: your customized KVPAI allocation now syncs across your devices via Google Drive (sign in once). Plus the Investor Profile and customized allocation from the prior release."
 }
