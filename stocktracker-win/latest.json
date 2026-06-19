@@ -1,6 +1,6 @@
 {
-    "version":  "1.10.56",
+    "version":  "1.11.0",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "New Fund tab: compare your holdings against a fund target allocation. Each stock shows its actual % of fund value vs its target as a deviation bar; tap a stock to ignore it and the rest renormalize. Toggle Absolute (percentage points) vs Relative (% of target) deviation. Includes the built-in KVP AI fund and lets you create your own funds; syncs across devices."
+    "notes":  "Customized KVPAI Portfolio: take the Investor Profile (anchored on analyst consensus) to personalize your KVPAI allocation. New Trade List shows how many shares to buy or sell to reach your targets (rebalance, new cash, or target total), with PDF and CSV export and per-stock ignore. Adjust Allocation hand-tunes the model by theme, category, or stock in percent or dollars, with match-current and locks. Plus per-stock limits. Your allocation syncs across your apps via Google Drive."
 }
