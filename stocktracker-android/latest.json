@@ -1,5 +1,5 @@
 {
-    "version":  "1.11.1",
+    "version":  "1.11.2",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Fix: the My Customized KVPAI model was illegible on phones - its summary text wrapped one letter per line. The Adjust Allocation and Trade List actions now stack neatly below the text on narrow screens."
+    "notes":  "Fix: opening the app signed in to Google up to three times. It now signs in once per session and reuses that session."
 }
