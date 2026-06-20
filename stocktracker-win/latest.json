@@ -1,6 +1,6 @@
 {
-    "version":  "1.11.2",
+    "version":  "1.11.3",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Fix: opening the app signed in to Google up to three times. It now signs in once per session and reuses that session."
+    "notes":  "Drive sync stays signed in with silent token refresh (no more repeated sign-in prompts); new setting to hide the Models tab."
 }
