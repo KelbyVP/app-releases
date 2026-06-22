@@ -1,5 +1,5 @@
 {
-    "version":  "1.11.3",
+    "version":  "1.11.4",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Drive sync stays signed in with silent token refresh (no more repeated sign-in prompts); new setting to hide the Models tab."
+    "notes":  "Bars: toggle Total between percent and dollars. Stingray gain-units: multiple presets you can cycle. Date-range filter in the virtual-portfolio stock picker. Google Drive now syncs UI prefs (search bar, Models tile, Stingray image) across devices. Watch token paste-entry plus Garmin (Grover) install docs."
 }
