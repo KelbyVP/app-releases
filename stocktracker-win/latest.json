@@ -1,6 +1,6 @@
 {
-    "version":  "1.12.3",
+    "version":  "1.12.4",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Support user-configurable ATH tracking: total portfolio vs active selection"
+    "notes":  "Fix ATH adaptation for customized portfolio \u0026 virtual portfolios"
 }
