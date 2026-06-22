@@ -1,6 +1,6 @@
 {
-    "version":  "1.11.4",
+    "version":  "1.12.0",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Bars: toggle Total between percent and dollars. Stingray gain-units: multiple presets you can cycle. Date-range filter in the virtual-portfolio stock picker. Google Drive now syncs UI prefs (search bar, Models tile, Stingray image) across devices. Watch token paste-entry plus Garmin (Grover) install docs."
+    "notes":  "Chart time windows (7D/1M/6M/YTD/All-Time) - tap the badge to switch. New all-time-high tracker on the Value chip with a shortfall dialog and a cha-ching sound (with volume control) when the portfolio hits a new high; the ATH setting syncs across devices."
 }
