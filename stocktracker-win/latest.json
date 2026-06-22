@@ -1,6 +1,6 @@
 {
-    "version":  "1.12.5",
+    "version":  "1.12.6",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Ensure customized fund is seeded on bootstrap and fix potential key resolution fallbacks"
+    "notes":  "Auto-heal polluted model fund ATH keys matching or exceeding portfolio ATH, and fix custom fund rebuild upon merge"
 }
