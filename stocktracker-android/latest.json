@@ -1,5 +1,5 @@
 {
-    "version":  "1.12.0",
+    "version":  "1.12.1",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Chart time windows (7D/1M/6M/YTD/All-Time) - tap the badge to switch. New all-time-high tracker on the Value chip with a shortfall dialog and a cha-ching sound (with volume control) when the portfolio hits a new high; the ATH setting syncs across devices."
+    "notes":  "Add company descriptions in ticker tooltips, and add KVP AI fund to the portfolio filters."
 }
