@@ -1,5 +1,5 @@
 {
-    "version":  "1.12.10",
+    "version":  "1.12.11",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Add color-blind mode settings, UI labels for targets, and compile fixes"
+    "notes":  "Increase targets font size and width for legibility"
 }
