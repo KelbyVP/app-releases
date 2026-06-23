@@ -1,6 +1,6 @@
 {
-    "version":  "1.12.8",
+    "version":  "1.12.10",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Migrate cached old default fund names to new defaults"
+    "notes":  "Add color-blind mode settings, UI labels for targets, and compile fixes"
 }

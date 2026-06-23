@@ -1,5 +1,5 @@
 {
-    "version":  "1.12.8",
+    "version":  "1.12.10",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Migrate cached old default fund names to new defaults"
+    "notes":  "Add color-blind mode settings, UI labels for targets, and compile fixes"
 }
