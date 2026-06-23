@@ -1,6 +1,6 @@
 {
-    "version":  "1.12.7",
+    "version":  "1.12.8",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Rename Models to Targets, KVP AI to Default KVPAI, and My Customized KVPAI to Customized KVPAI"
+    "notes":  "Migrate cached old default fund names to new defaults"
 }
