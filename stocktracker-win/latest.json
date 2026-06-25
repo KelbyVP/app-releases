@@ -1,6 +1,6 @@
 {
-    "version":  "1.12.11",
+    "version":  "1.13.0",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Increase targets font size and width for legibility"
+    "notes":  "Compare your gains to the S&P 500 over any time frame. A new Time-frame dropdown drives your gain ($/%), the S&P-equivalent gain ($/%), alpha, and dividends. Plus a Lead-over-S&P chart view, per-position vs-S&P bars, and a Compare-accounts breakdown."
 }
