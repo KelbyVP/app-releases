@@ -1,5 +1,5 @@
 {
-    "version":  "1.13.0",
+    "version":  "1.13.1",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Compare your gains to the S&P 500 over any time frame. A new Time-frame dropdown drives your gain ($/%), the S&P-equivalent gain ($/%), alpha, and dividends. Plus a Lead-over-S&P chart view, per-position vs-S&P bars, and a Compare-accounts breakdown."
+    "notes":  "Reworked the vs-S&P 500 comparison: for each holding it now compares from your actual purchase date against the same dollars invested in the S&P 500, showing total gain ($ and %) and the effective annual rate for you, the S&P, and your alpha. Fixes the incorrect S&P figures in the old time-frame view."
 }
