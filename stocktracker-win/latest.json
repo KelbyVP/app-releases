@@ -1,6 +1,6 @@
 {
-    "version":  "1.13.1",
+    "version":  "1.13.2",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Reworked the vs-S&P 500 comparison: for each holding it now compares from your actual purchase date against the same dollars invested in the S&P 500, showing total gain ($ and %) and the effective annual rate for you, the S&P, and your alpha. Fixes the incorrect S&P figures in the old time-frame view."
+    "notes":  "Every S&P 500 figure now tracks the actual S&P 500 index (^GSPC), so 'S&P today' and the comparison match the index everyone quotes. The cumulative cards are labeled 'Total' to distinguish them from the annual rate."
 }
