@@ -1,5 +1,5 @@
 {
-    "version":  "1.13.3",
+    "version":  "1.13.4",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "The top bar now fits without clipping: the 'S&P 500' cards are shortened to 'S&P', and the All/Stocks/Crypto toggle and scope filter moved up onto the tab row."
+    "notes":  "Fixes the Windows update loop where the app kept re-offering the same version without ever installing it. Updates now install directly instead of relying on the App Installer dialog. (Top bar also fits without clipping: 'S&P 500' cards shortened to 'S&P', filters moved onto the tab row.)"
 }
