@@ -1,6 +1,6 @@
 {
-    "version":  "1.13.2",
+    "version":  "1.13.3",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Every S&P 500 figure now tracks the actual S&P 500 index (^GSPC), so 'S&P today' and the comparison match the index everyone quotes. The cumulative cards are labeled 'Total' to distinguish them from the annual rate."
+    "notes":  "The top bar now fits without clipping: the 'S&P 500' cards are shortened to 'S&P', and the All/Stocks/Crypto toggle and scope filter moved up onto the tab row."
 }
