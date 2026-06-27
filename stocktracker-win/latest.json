@@ -1,6 +1,6 @@
 {
-    "version":  "1.13.4",
+    "version":  "1.13.5",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Fixes the update loop where the app kept re-offering the same version without ever installing it. Updates now install directly (Add-AppxPackage) instead of relying on the App Installer dialog. (Top bar also fits without clipping: 'S&P 500' cards shortened to 'S&P', filters moved onto the tab row.)"
+    "notes":  "Android: account filters no longer overlap the top navigation tabs (they move to their own row on phones). Settings: the Google Drive sync menu no longer wraps one letter per line."
 }
