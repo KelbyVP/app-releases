@@ -1,6 +1,6 @@
 {
-    "version":  "1.13.5",
+    "version":  "1.13.6",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Android: account filters no longer overlap the top navigation tabs (they move to their own row on phones). Settings: the Google Drive sync menu no longer wraps one letter per line."
+    "notes":  "Fixes overstated holdings: a position sold down after importing a positions snapshot no longer keeps showing the old share count — transaction sells now reduce the holding. If a holding looks low, import a current Schwab Positions export for exact totals."
 }
