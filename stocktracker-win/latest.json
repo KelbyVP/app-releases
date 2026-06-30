@@ -1,6 +1,6 @@
 {
-    "version":  "1.13.6",
+    "version":  "1.13.7",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Fixes overstated holdings: a position sold down after importing a positions snapshot no longer keeps showing the old share count — transaction sells now reduce the holding. If a holding looks low, import a current Schwab Positions export for exact totals."
+    "notes":  "Re-importing a complete positions export now removes holdings you've sold out of, instead of leaving them at their old share count. Works for Schwab, Fidelity, Vanguard, and Robinhood. Manually-entered lots are never touched."
 }
