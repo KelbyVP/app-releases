@@ -1,6 +1,6 @@
 {
-    "version":  "1.14.0",
+    "version":  "1.14.1",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "The gain cards in the top bar are now interactive: tap the return cards (You / S&P / Alpha) or the Dividends card to cycle all of them together between XIRR (annualized), year-to-date, and the last 12 months. Each card has a plain-language tooltip explaining the number, and the Invested card now sits right next to Value."
+    "notes":  "Fixes the repeating \u0027update available\u0027 prompt on Windows: the app now reports its actual installed version, so it stops offering an update it already has. Windows installs this automatically on next launch."
 }
