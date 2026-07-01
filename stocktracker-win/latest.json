@@ -1,6 +1,6 @@
 {
-    "version":  "1.14.1",
+    "version":  "1.14.2",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Fixes the repeating \u0027update available\u0027 prompt on Windows: the app now reports its actual installed version, so it stops offering an update it already has. Windows installs this automatically on next launch."
+    "notes":  "Fixes an Android update that could fail to install when updating from 1.14.0. Also remembers your selected tab, filters, and sort column between launches."
 }
