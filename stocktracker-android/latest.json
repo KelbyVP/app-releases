@@ -1,5 +1,5 @@
 {
-    "version":  "1.13.7",
+    "version":  "1.14.0",
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Re-importing a complete positions export now removes holdings you've sold out of, instead of leaving them at their old share count. Works for Schwab, Fidelity, Vanguard, and Robinhood. Manually-entered lots are never touched."
+    "notes":  "The gain cards in the top bar are now interactive: tap the return cards (You / S&P / Alpha) or the Dividends card to cycle all of them together between XIRR (annualized), year-to-date, and the last 12 months. Each card has a plain-language tooltip explaining the number, and the Invested card now sits right next to Value."
 }
