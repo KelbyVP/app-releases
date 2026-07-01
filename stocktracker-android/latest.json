@@ -1,6 +1,6 @@
 {
-    "version":  "1.14.3",
-    "versionCode":  1782865033,
+    "version":  "1.15.0",
+    "versionCode":  1782865034,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Fixes an Android update that could fail to install (\"App install failed\"). Also remembers your selected tab, filters, and sort column between launches."
+    "notes":  "Configurable market-hours price-refresh interval (Settings \u003e Price refresh). New Tile Settings menu: drag-to-reorder the top-bar chips, plus Stingrays and all-time-high tile options. Your tab, filters, and sort now persist across launches."
 }
