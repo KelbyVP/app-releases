@@ -1,6 +1,6 @@
 {
-    "version":  "1.14.2",
+    "version":  "1.14.3",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Fixes an Android update that could fail to install when updating from 1.14.0. Also remembers your selected tab, filters, and sort column between launches."
+    "notes":  "Fixes an Android update that could fail to install (\"App install failed\"). Also remembers your selected tab, filters, and sort column between launches."
 }
