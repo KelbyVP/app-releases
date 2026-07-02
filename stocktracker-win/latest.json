@@ -1,6 +1,6 @@
 {
-    "version":  "1.16.1",
+    "version":  "1.16.2",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Fix: importing Schwab transaction history no longer wildly under-counts holdings (it was double-reducing positions against an older snapshot, and overlapping re-imports stacked); positions recover by importing a current Positions export. ABBNY now counts toward ABB in the KVPAI allocation view."
+    "notes":  "Fix: importing Schwab transaction history no longer drops a buy that occurred after a sale (e.g. a dividend reinvest posted a few days later, or a post-snapshot purchase) — those shares now survive and add on top of your positions snapshot instead of vanishing."
 }
