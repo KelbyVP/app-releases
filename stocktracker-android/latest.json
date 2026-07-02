@@ -1,6 +1,6 @@
 {
-    "version":  "1.16.0",
-    "versionCode":  1782865035,
+    "version":  "1.16.1",
+    "versionCode":  1782954591,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Virtual portfolio picker now has account, date-range, and other-portfolio filters, and can pick sold-off tickers held in other virtual portfolios. Date filter defaults \u0027From\u0027 to Jan 1 this year and shows dates as mm-dd-yyyy. Android tile drag is now immediate (no long-press)."
+    "notes":  "Fix: importing Schwab transaction history no longer wildly under-counts holdings (it was double-reducing positions against an older snapshot, and overlapping re-imports stacked); positions recover by importing a current Positions export. ABBNY now counts toward ABB in the KVPAI allocation view."
 }
