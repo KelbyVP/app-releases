@@ -1,6 +1,6 @@
 {
-    "version":  "1.16.2",
+    "version":  "1.17.0",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Fix: importing Schwab transaction history no longer drops a buy that occurred after a sale (e.g. a dividend reinvest posted a few days later, or a post-snapshot purchase) — those shares now survive and add on top of your positions snapshot instead of vanishing."
+    "notes":  "CAGR/YTD/1Y bars now support the $/% toggle. YTD and 1Y show the actual realized dollar gain; CAGR stays the sole annualized projection (its $ twin flagged hypothetical). Targets tab dims tickers you do not currently hold. Positions sort bar auto-scrolls the selected column into view."
 }
