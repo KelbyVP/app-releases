@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.0",
+    "version":  "1.17.1",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "CAGR/YTD/1Y bars now support the $/% toggle. YTD and 1Y show the actual realized dollar gain; CAGR stays the sole annualized projection (its $ twin flagged hypothetical). Targets tab dims tickers you do not currently hold. Positions sort bar auto-scrolls the selected column into view."
+    "notes":  "Maintenance: upgrade file_picker and package_info_plus (with a Windows build fix). No user-facing changes."
 }

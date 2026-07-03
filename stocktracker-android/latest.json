@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.0",
-    "versionCode":  1783035480,
+    "version":  "1.17.1",
+    "versionCode":  1783053052,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "CAGR/YTD/1Y bars now support the $/% toggle. YTD and 1Y show the actual realized dollar gain; CAGR stays the sole annualized projection (its $ twin flagged hypothetical). Targets tab dims tickers you do not currently hold. Positions sort bar auto-scrolls the selected column into view."
+    "notes":  "Maintenance: upgrade file_picker and package_info_plus (with a Windows build fix). No user-facing changes."
 }
