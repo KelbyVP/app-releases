@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.2",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "KVPAI Industry tab (segment?category?company actual vs target); theme-matched segment colors; configurable close-enough ACT/TGT band; SK Hynix added to Memory sleeve."
+  "version": "1.17.3",
+  "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
+  "notes": "Industry breakdown polish: white TGT + close-range brackets on coverage meters; segment/category/company mix pies with adjacent name/% columns and status pips; relative close-enough mode (±20% of target)."
 }
