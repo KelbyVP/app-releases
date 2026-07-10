@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.1",
-    "versionCode":  1783053052,
+    "version":  "1.17.2",
+    "versionCode":  1783636505,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Maintenance: upgrade file_picker and package_info_plus (with a Windows build fix). No user-facing changes."
+    "notes":  "KVPAI Industry tab (segment?category?company actual vs target); theme-matched segment colors; configurable close-enough ACT/TGT band; SK Hynix added to Memory sleeve."
 }

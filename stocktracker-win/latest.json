@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.1",
+    "version":  "1.17.2",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Maintenance: upgrade file_picker and package_info_plus (with a Windows build fix). No user-facing changes."
+    "notes":  "KVPAI Industry tab (segment?category?company actual vs target); theme-matched segment colors; configurable close-enough ACT/TGT band; SK Hynix added to Memory sleeve."
 }
