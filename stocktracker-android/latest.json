@@ -1,6 +1,6 @@
 {
-  "version": "1.17.3",
-  "versionCode": 1783680524,
+  "version": "1.17.4",
+  "versionCode": 1783681195,
   "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-  "notes": "Industry breakdown polish: white TGT + close-range brackets on coverage meters; segment/category/company mix pies with adjacent name/% columns and status pips; relative close-enough mode (±20% of target)."
+  "notes": "Industry tab usable on phone: segment mix collapsed by default, compact segment rows until expanded, denser chrome so the list owns the screen."
 }
