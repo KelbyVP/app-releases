@@ -1,6 +1,6 @@
 {
-  "version": "1.17.4",
+  "version": "1.17.5",
   "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
   "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-  "notes": "Industry tab usable on phone: segment mix collapsed by default, compact segment rows until expanded, denser chrome so the list owns the screen."
+  "notes": "Company mix pie legends show full tickers (no CAT→C… ellipsis); tight layouts scroll instead of squeezing the name column."
 }
