@@ -1,6 +1,6 @@
 {
-  "version": "1.17.6",
-  "versionCode": 1783682506,
-  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-  "notes": "Segment Mix pie and legend sorted by target weight (largest first)."
+    "version":  "1.17.7",
+    "versionCode":  1783682507,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
+    "notes":  "Fix Industry view Jump-to-ticker: scroll the highlighted company into view (not just the segment card)."
 }

@@ -1,6 +1,6 @@
 {
-  "version": "1.17.6",
-  "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
-  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-  "notes": "Segment Mix pie and legend sorted by target weight (largest first)."
+    "version":  "1.17.7",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
+    "notes":  "Fix Industry view Jump-to-ticker: scroll the highlighted company into view (not just the segment card)."
 }
