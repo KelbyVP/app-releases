@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.7",
-    "versionCode":  1783682507,
+    "version":  "1.17.8",
+    "versionCode":  1784044315,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Fix Industry view Jump-to-ticker: scroll the highlighted company into view (not just the segment card)."
+    "notes":  "Per-position XIRR on the Bars tab; faster Android launch (cached prices, parallel Drive sync, silent merge); lock out Drive sync while the add/edit-lot dialog is open; Android background portfolio-ATH monitoring with notification chime (Settings toggle, off by default)."
 }
