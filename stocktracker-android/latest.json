@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.10",
-    "versionCode":  1784136808,
+    "version":  "1.17.11",
+    "versionCode":  1784144007,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "- Group Targets-tab settings under a collapsible section; tweak labels"
+    "notes":  "- Fold dividends/coupons into Total, CAGR, XIRR, YTD, 1Y \u0026 vs-S\u0026P, with an opt-out"
 }
