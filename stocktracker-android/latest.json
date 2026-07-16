@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.11",
-    "versionCode":  1784144007,
+    "version":  "1.17.12",
+    "versionCode":  1784165575,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "- Fold dividends/coupons into Total, CAGR, XIRR, YTD, 1Y \u0026 vs-S\u0026P, with an opt-out"
+    "notes":  "- Sync all settings/preferences and view state to Drive; fix desktop auto sign-in"
 }

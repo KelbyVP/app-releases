@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.11",
+    "version":  "1.17.12",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Fold dividends/coupons into Total, CAGR, XIRR, YTD, 1Y \u0026 vs-S\u0026P, with an opt-out"
+    "notes":  "- Sync all settings/preferences and view state to Drive; fix desktop auto sign-in"
 }
