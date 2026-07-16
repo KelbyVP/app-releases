@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.9",
+    "version":  "1.17.10",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Add Windows auto-publish scheduled-task script for origin/main.\n- Retry failed per-ticker price fetches; show Total-tile loading state; respect Drive sync mode in background merges\n- Give the Bars-tab min-hold filter a distinct look from the mode selector\n- Add lot-deletion tombstones; show value/basis-date and a min-hold filter on Bars\n- Add a Basis date column to Positions/Overview tables, and make columns reorderable\n- Add a \"Check for update\" button to the About dialog"
+    "notes":  "- Group Targets-tab settings under a collapsible section; tweak labels"
 }
