@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.12",
+    "version":  "1.17.13",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Sync all settings/preferences and view state to Drive; fix desktop auto sign-in"
+    "notes":  "- Stop workspace view state from hijacking the active tab on background pulls"
 }
