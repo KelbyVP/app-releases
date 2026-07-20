@@ -1,7 +1,7 @@
 {
-  "version": "0.1.8",
-  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.8/kelbys-christmas.zip",
-  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.8/KelbysChristmas-Setup.exe",
-  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.8",
-  "notes": "Neutral Tree default avatar for every account; person-specific only when chosen"
+  "version": "0.1.9",
+  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.9/kelbys-christmas.zip",
+  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.9/KelbysChristmas-Setup.exe",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.9",
+  "notes": "Create account: avatar catalog follows name as you type"
 }
