@@ -1,7 +1,7 @@
 {
-  "notes": "Silent LocalAppData install/update — no extract/overwrite dialogs",
   "version": "0.1.4",
-  "packageUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-win/kelbys-christmas.zip",
-  "setupUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-win/KelbysChristmas-Setup.exe",
-  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-win"
+  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.4/KelbysChristmas-Setup.exe",
+  "notes": "Silent install/update. Use Setup.exe. Downloads via GitHub Releases (not raw).",
+  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.4/kelbys-christmas.zip",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.4"
 }
