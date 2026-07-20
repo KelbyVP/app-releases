@@ -1,7 +1,7 @@
 {
-  "version": "0.1.4",
-  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.4/KelbysChristmas-Setup.exe",
-  "notes": "Silent install/update. Use Setup.exe. Downloads via GitHub Releases (not raw).",
-  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.4/kelbys-christmas.zip",
-  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.4"
+  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.5/kelbys-christmas.zip",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.5",
+  "notes": "Silent install; GitHub Releases CDN (fixes download errors)",
+  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.5/KelbysChristmas-Setup.exe",
+  "version": "0.1.5"
 }
