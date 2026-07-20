@@ -1,7 +1,7 @@
 {
-  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.5/kelbys-christmas.zip",
-  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.5",
-  "notes": "Silent install; GitHub Releases CDN (fixes download errors)",
-  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.5/KelbysChristmas-Setup.exe",
-  "version": "0.1.5"
+  "version": "0.1.6",
+  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.6/kelbys-christmas.zip",
+  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.6/KelbysChristmas-Setup.exe",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.6",
+  "notes": "Sign-out/sign-in isolates accounts on one device; version on Home/Account; greeting uses account name; silent update via Releases CDN"
 }

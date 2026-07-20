@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
     xmlns="http://schemas.microsoft.com/appx/appinstaller/2021"
-    Version="0.1.2.0"
+    Version="0.1.6.0"
     Uri="https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-win/KelbysChristmas.appinstaller">
   <MainPackage
       Name="KelbyVP.KelbysChristmas"
       Publisher="CN=kelby"
-      Version="0.1.2.0"
+      Version="0.1.6.0"
       Uri="https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-win/kelbys-christmas.msix"
       ProcessorArchitecture="x64" />
   <UpdateSettings>
