@@ -1,7 +1,7 @@
 {
-  "version": "0.1.6",
-  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.6/kelbys-christmas.zip",
-  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.6/KelbysChristmas-Setup.exe",
-  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.6",
-  "notes": "Sign-out/sign-in isolates accounts on one device; version on Home/Account; greeting uses account name; silent update via Releases CDN"
+  "version": "0.1.7",
+  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.7/kelbys-christmas.zip",
+  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.7/KelbysChristmas-Setup.exe",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.7",
+  "notes": "Per-account avatar on shared device; Jill/Kelby full-name matching"
 }
