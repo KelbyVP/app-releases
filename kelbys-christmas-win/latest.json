@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.2",
   "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-win/kelbys-christmas.msix",
-  "notes": "Family pilot - one-click Setup.exe for Windows",
-  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-win",
-  "setupUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-win/KelbysChristmas-Setup.exe"
+  "setupUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-win/KelbysChristmas-Setup.exe",
+  "notes": "Name accounts, in-app invites, silent Windows updates",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-win"
 }

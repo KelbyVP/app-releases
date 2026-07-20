@@ -1,5 +1,5 @@
 # Kelby's Christmas (Windows)
 
-**Easiest install (family):** download [KelbysChristmas-Setup.exe](https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-win/KelbysChristmas-Setup.exe), open it, click Yes.
+**Install:** download [KelbysChristmas-Setup.exe](https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-win/KelbysChristmas-Setup.exe)
 
-Also available: `kelbys-christmas.msix` / App Installer (advanced).
+Version 0.1.2 — name accounts, in-app family invites, silent auto-update.
