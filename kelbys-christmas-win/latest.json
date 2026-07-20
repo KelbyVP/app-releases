@@ -1,0 +1,6 @@
+﻿{
+    "version":  "0.1.0",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-win/kelbys-christmas.msix",
+    "notes":  "Family pilot — stack UI + signed MSIX",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-win"
+}
