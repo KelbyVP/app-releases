@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.16",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.16/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.16/KelbysChristmas-Setup.exe",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.16",
-    "notes":  "Pin/launch install path: stop re-updating from taskbar dev build"
+    "version":  "0.1.17",
+    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.17/kelbys-christmas.zip",
+    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.17/KelbysChristmas-Setup.exe",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.17",
+    "notes":  "Install to existing path; delete old update extracts"
 }
