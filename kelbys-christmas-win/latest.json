@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.20",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.20/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.20/KelbysChristmas-Setup.exe",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.20",
-    "notes":  "Fix silent update: no PowerShell; do not delete zip before extract"
+    "version":  "0.1.21",
+    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.21/kelbys-christmas.zip",
+    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.21/KelbysChristmas-Setup.exe",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.21",
+    "notes":  "Strip UI filler: no e.g. placeholders or hand-holding copy"
 }
