@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.15",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.15/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.15/KelbysChristmas-Setup.exe",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.15",
-    "notes":  "Fix invite name typeahead (token, layout, search status)"
+    "version":  "0.1.16",
+    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.16/kelbys-christmas.zip",
+    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.16/KelbysChristmas-Setup.exe",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.16",
+    "notes":  "Pin/launch install path: stop re-updating from taskbar dev build"
 }
