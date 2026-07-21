@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.17",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.17/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.17/KelbysChristmas-Setup.exe",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.17",
-    "notes":  "Install to existing path; delete old update extracts"
+    "version":  "0.1.18",
+    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.18/kelbys-christmas.zip",
+    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.18/KelbysChristmas-Setup.exe",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.18",
+    "notes":  "Ship Schannel TLS plugin; fix HTTPS (invite search)"
 }
