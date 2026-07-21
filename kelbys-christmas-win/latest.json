@@ -1,7 +1,7 @@
 {
-  "version": "0.1.14",
-  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.14/kelbys-christmas.zip",
-  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.14/KelbysChristmas-Setup.exe",
-  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.14",
-  "notes": "People hub (not Family-only)"
+    "version":  "0.1.15",
+    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.15/kelbys-christmas.zip",
+    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.15/KelbysChristmas-Setup.exe",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.15",
+    "notes":  "Fix invite name typeahead (token, layout, search status)"
 }
