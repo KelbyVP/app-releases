@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.13",
+    "version":  "1.17.14",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Stop workspace view state from hijacking the active tab on background pulls"
+    "notes":  "Eliminate cash tracking. Drop CASH lots that Yahoo-priced to ~$10M. Securities-only totals."
 }

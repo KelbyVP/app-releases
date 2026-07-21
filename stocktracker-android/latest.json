@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.13",
-    "versionCode":  1784316815,
+    "version":  "1.17.14",
+    "versionCode":  1784605859,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "- Stop workspace view state from hijacking the active tab on background pulls"
+    "notes":  "Eliminate cash tracking. Drop CASH lots that Yahoo-priced to ~$10M. Securities-only totals."
 }
