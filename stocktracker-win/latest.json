@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.14",
+    "version":  "1.17.15",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Eliminate cash tracking. Drop CASH lots that Yahoo-priced to ~$10M. Securities-only totals."
+    "notes":  "- Eliminate cash tracking and harden against CASH lot re-poisoning.\n- Release 1.17.13\n- Stop workspace view state from hijacking the active tab on background pulls\n- Release 1.17.12\n- Sync all settings/preferences and view state to Drive; fix desktop auto sign-in\n- Release 1.17.11\n- Fold dividends/coupons into Total, CAGR, XIRR, YTD, 1Y \u0026 vs-S\u0026P, with an opt-out\n- Release 1.17.10\n- Group Targets-tab settings under a collapsible section; tweak labels"
 }
