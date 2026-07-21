@@ -1,7 +1,7 @@
 {
-  "version": "0.1.10",
-  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.10/kelbys-christmas.zip",
-  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.10/KelbysChristmas-Setup.exe",
-  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.10",
-  "notes": "Avatar dropdown images only"
+  "version": "0.1.11",
+  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.11/kelbys-christmas.zip",
+  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.11/KelbysChristmas-Setup.exe",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.11",
+  "notes": "Readable text fields use theme cream/ink colors"
 }
