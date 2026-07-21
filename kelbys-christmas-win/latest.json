@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.19",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.19/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.19/KelbysChristmas-Setup.exe",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.19",
-    "notes":  "People UX: circles-first tiles, fewer tabs, admin add-to-circle"
+    "version":  "0.1.20",
+    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.20/kelbys-christmas.zip",
+    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.20/KelbysChristmas-Setup.exe",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.20",
+    "notes":  "Fix silent update: no PowerShell; do not delete zip before extract"
 }
