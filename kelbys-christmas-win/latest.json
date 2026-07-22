@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.21",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.21/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.21/KelbysChristmas-Setup.exe",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.21",
-    "notes":  "Strip UI filler: no e.g. placeholders or hand-holding copy"
+    "version":  "0.1.22",
+    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.22/kelbys-christmas.zip",
+    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.22/KelbysChristmas-Setup.exe",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.22",
+    "notes":  "Account UX, gift sizes/preferences, circle detail, contacts link-to-user, hub decoration. Password min relaxed; PB gift profile fields."
 }
