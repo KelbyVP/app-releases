@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.15",
-    "versionCode":  1784748252,
+    "version":  "1.17.17",
+    "versionCode":  1784748560,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
     "notes":  "Permanent fix for Traditional IRA (and any account) inventory overcount: Schwab re-import replaces open-lot projections and tombstones dropped lots so Drive cannot resurrect phantoms; strips legacy asOf on txn lots that blocked sells. Re-import Trad IRA Transactions after update if totals still look wrong."
 }
