@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.16",
+    "version":  "1.17.15",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Show last Drive-fetch timestamp in the app bar"
+    "notes":  "Permanent fix for Traditional IRA (and any account) inventory overcount: Schwab re-import replaces open-lot projections and tombstones dropped lots so Drive cannot resurrect phantoms; strips legacy asOf on txn lots that blocked sells. Re-import Trad IRA Transactions after update if totals still look wrong."
 }
