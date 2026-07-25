@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.18",
-    "versionCode":  1784838072,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Add volatility-vs-return Scatter view and per-field narrow Positions layout; fix 1Y Vol column, Drive tab-hijack bug, and silent Drive push of unsaved lot edits under manual/notify sync"
+  "version": "1.17.19",
+  "versionCode": 1784953090,
+  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
+  "notes": "- Split Drive sync dialog's merge/overwrite actions into two columns\n- Fix watch long-press timing out when phone is locked"
 }

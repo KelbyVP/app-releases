@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.18",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Add volatility-vs-return Scatter view and per-field narrow Positions layout; fix 1Y Vol column, Drive tab-hijack bug, and silent Drive push of unsaved lot edits under manual/notify sync"
+  "version": "1.17.19",
+  "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
+  "notes": "- Split Drive sync dialog's merge/overwrite actions into two columns\n- Fix watch long-press timing out when phone is locked"
 }
