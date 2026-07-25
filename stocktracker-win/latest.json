@@ -1,6 +1,6 @@
 {
-  "version": "1.17.19",
+  "version": "1.17.20",
   "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
   "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-  "notes": "- Split Drive sync dialog's merge/overwrite actions into two columns\n- Fix watch long-press timing out when phone is locked"
+  "notes": "- Fix auto-publish treating git stderr as a terminating error.\n- Fix auto-publish stuck when autobuild clone is dirty."
 }

@@ -1,6 +1,6 @@
 {
-  "version": "1.17.19",
-  "versionCode": 1784953090,
+  "version": "1.17.20",
+  "versionCode": 1784954922,
   "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-  "notes": "- Split Drive sync dialog's merge/overwrite actions into two columns\n- Fix watch long-press timing out when phone is locked"
+  "notes": "- Fix auto-publish treating git stderr as a terminating error.\n- Fix auto-publish stuck when autobuild clone is dirty."
 }
