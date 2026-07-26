@@ -1,6 +1,6 @@
 {
-  "version": "1.17.20",
-  "versionCode": 1784954922,
+  "version": "1.17.21",
+  "versionCode": 1785046333,
   "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-  "notes": "- Fix auto-publish treating git stderr as a terminating error.\n- Fix auto-publish stuck when autobuild clone is dirty."
+  "notes": "Positions tab: expandable per-lot detail rows (chevron/long-press) showing shares, cost, basis date, price, value, gain, day change, vol, and account under the main column headers for multi-lot tickers."
 }
