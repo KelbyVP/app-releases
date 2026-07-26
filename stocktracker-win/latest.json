@@ -1,6 +1,6 @@
 {
-  "version": "1.17.21",
+  "version": "1.17.22",
   "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
   "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-  "notes": "Positions tab: expandable per-lot detail rows (chevron/long-press) showing shares, cost, basis date, price, value, gain, day change, vol, and account under the main column headers for multi-lot tickers."
+  "notes": "Structural decomposition for maintainability; typed lot provenance (LotOrigin); single canonicalizeLots heal pipeline; Overview expand for multi-lot positions on Windows; PortfolioSession/DriveSession and modular UI/importer splits. No intentional product behavior changes beyond provenance/heal consistency."
 }
