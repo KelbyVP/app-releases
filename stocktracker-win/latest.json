@@ -1,6 +1,6 @@
 {
-  "version": "1.17.22",
-  "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
-  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-  "notes": "Structural decomposition for maintainability; typed lot provenance (LotOrigin); single canonicalizeLots heal pipeline; Overview expand for multi-lot positions on Windows; PortfolioSession/DriveSession and modular UI/importer splits. No intentional product behavior changes beyond provenance/heal consistency."
+    "version":  "1.17.23",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
+    "notes":  "- Document pre-authorized dev-loop actions in CLAUDE.md\n- Fix Shopping List chip overflow and add rebalance Buy/Sell filter + position jump"
 }

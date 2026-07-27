@@ -1,6 +1,6 @@
 {
-  "version": "1.17.22",
-  "versionCode": 1785051161,
-  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-  "notes": "Structural decomposition for maintainability; typed lot provenance (LotOrigin); single canonicalizeLots heal pipeline; Overview expand for multi-lot positions on Windows; PortfolioSession/DriveSession and modular UI/importer splits. No intentional product behavior changes beyond provenance/heal consistency."
+    "version":  "1.17.23",
+    "versionCode":  1785087222,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
+    "notes":  "- Document pre-authorized dev-loop actions in CLAUDE.md\n- Fix Shopping List chip overflow and add rebalance Buy/Sell filter + position jump"
 }
