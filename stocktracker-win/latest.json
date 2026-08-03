@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.24",
+    "version":  "1.17.25",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Close a Drive Sync Mode gap and add push-source tracking for debugging\n- Add company-description tooltip to ticker on Bars tab hover"
+    "notes":  "Positions: KVPAI Category column (segment and category from taxonomy). Industry view: Collapse all / Expand all, accordion expand (one industry open at a time), start collapsed for easier scrolling."
 }
