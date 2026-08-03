@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.25",
-    "versionCode":  1785762925,
+    "version":  "1.17.26",
+    "versionCode":  1785763752,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Positions: KVPAI Category column (segment and category from taxonomy). Industry view: Collapse all / Expand all, accordion expand (one industry open at a time), start collapsed for easier scrolling."
+    "notes":  "Overview no longer shows the Positions-only KVPAI Category column (strip any prefs that auto-added it)."
 }
