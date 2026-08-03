@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.26",
+    "version":  "1.17.27",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Overview no longer shows the Positions-only KVPAI Category column (strip any prefs that auto-added it)."
+    "notes":  "Compact long KVPAI Category cells (first placement +N, 36-char clip); full list on hover."
 }
