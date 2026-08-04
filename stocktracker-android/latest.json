@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.27",
-    "versionCode":  1785764509,
+    "version":  "1.17.28",
+    "versionCode":  1785836010,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Compact long KVPAI Category cells (first placement +N, 36-char clip); full list on hover."
+    "notes":  "- Make the app bar\u0027s fetch label reflect price fetches, not Drive sync"
 }

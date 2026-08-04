@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.27",
+    "version":  "1.17.28",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Compact long KVPAI Category cells (first placement +N, 36-char clip); full list on hover."
+    "notes":  "- Make the app bar\u0027s fetch label reflect price fetches, not Drive sync"
 }
