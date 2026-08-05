@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.29",
-    "versionCode":  1785886419,
+    "version":  "1.17.30",
+    "versionCode":  1785927044,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "- Make \"Manual\" Drive sync mode block automatic pulls, not just pushes"
+    "notes":  "Portfolio control plane: Lot.broker, pure import/Drive services, residual projection, IRA/Schwab inventory fixes from prior commits."
 }

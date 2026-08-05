@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.29",
+    "version":  "1.17.30",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Make \"Manual\" Drive sync mode block automatic pulls, not just pushes"
+    "notes":  "Portfolio control plane: Lot.broker, pure import/Drive services, residual projection, IRA/Schwab inventory fixes from prior commits."
 }
