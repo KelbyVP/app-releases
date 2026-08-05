@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.28",
-    "versionCode":  1785836010,
+    "version":  "1.17.29",
+    "versionCode":  1785886419,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "- Make the app bar\u0027s fetch label reflect price fetches, not Drive sync"
+    "notes":  "- Make \"Manual\" Drive sync mode block automatic pulls, not just pushes"
 }
