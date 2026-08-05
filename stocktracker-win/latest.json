@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.33",
-    "msixUrl":  "https://cdn.jsdelivr.net/gh/KelbyVP/app-releases@main/stocktracker-win/KVPStockTracker_x64.msix",
+    "version":  "1.17.34",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.34_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Fix update download/install: unvirtualized download path for AppX, jsDelivr CDN, longer timeouts, open-installer fallback."
+    "notes":  "Fix update install loop: versioned MSIX/APK URLs so CDN cannot serve a stale installer; prefer GitHub raw over jsDelivr."
 }

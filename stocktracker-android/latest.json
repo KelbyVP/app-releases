@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.33",
-    "versionCode":  1785929051,
-    "apkUrl":  "https://cdn.jsdelivr.net/gh/KelbyVP/app-releases@main/stocktracker-android/kvp-stock-tracker-arm64.apk",
-    "notes":  "Fix update download/install: unvirtualized download path for AppX, jsDelivr CDN, longer timeouts, open-installer fallback."
+    "version":  "1.17.34",
+    "versionCode":  1785937126,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.34-arm64.apk",
+    "notes":  "Fix update install loop: versioned MSIX/APK URLs so CDN cannot serve a stale installer; prefer GitHub raw over jsDelivr."
 }
