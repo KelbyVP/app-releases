@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.30",
+    "version":  "1.17.31",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Portfolio control plane: Lot.broker, pure import/Drive services, residual projection, IRA/Schwab inventory fixes from prior commits."
+    "notes":  "Fix Windows exit crash (memory could not be read): WinRT static destructor AV on process shutdown."
 }
