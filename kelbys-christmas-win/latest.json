@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.24",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.24/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.24/KelbysChristmas-Setup.exe",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.24",
-    "notes":  "Main tab navigation (no Home). Gift sizes Save button always visible."
+    "version":  "0.1.25",
+    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.25/kelbys-christmas.zip",
+    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.25/KelbysChristmas-Setup.exe",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.25",
+    "notes":  "Architecture cleanup: shell VMs, people slice VMs, MainWindow chrome-only, generation-guarded sync."
 }
