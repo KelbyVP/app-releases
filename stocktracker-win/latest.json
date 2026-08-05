@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.31",
+    "version":  "1.17.32",
     "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Fix Windows exit crash (memory could not be read): WinRT static destructor AV on process shutdown."
+    "notes":  "Fix update download failures: retries across GitHub mirrors, validate installer size/header, show real error, separate install failures."
 }
