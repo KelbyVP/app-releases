@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.34",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.34_x64.msix",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Fix update install loop: versioned MSIX/APK URLs so CDN cannot serve a stale installer; prefer GitHub raw over jsDelivr."
+  "version": "1.17.35",
+  "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.35_x64.msix",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
+  "notes": "Positions Ext $ / Ext % columns (after-hours move vs today's regular close); evening display through overnight; one-shot Ext fetch on open (no after-hours polling); Yahoo crumb seed fallback via finance.yahoo.com when fc.yahoo.com fails."
 }

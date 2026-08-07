@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.34",
-    "versionCode":  1785937126,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.34-arm64.apk",
-    "notes":  "Fix update install loop: versioned MSIX/APK URLs so CDN cannot serve a stale installer; prefer GitHub raw over jsDelivr."
+  "version": "1.17.35",
+  "versionCode": 1786076190,
+  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.35-arm64.apk",
+  "notes": "Positions Ext $ / Ext % columns (after-hours move vs today's regular close); evening display through overnight; one-shot Ext fetch on open (no after-hours polling); Yahoo crumb seed fallback via finance.yahoo.com when fc.yahoo.com fails."
 }
