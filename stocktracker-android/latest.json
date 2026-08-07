@@ -1,6 +1,6 @@
 {
-  "version": "1.17.35",
-  "versionCode": 1786076190,
-  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.35-arm64.apk",
-  "notes": "Positions Ext $ / Ext % columns (after-hours move vs today's regular close); evening display through overnight; one-shot Ext fetch on open (no after-hours polling); Yahoo crumb seed fallback via finance.yahoo.com when fc.yahoo.com fails."
+  "version": "1.17.36",
+  "versionCode": 1786077027,
+  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.36-arm64.apk",
+  "notes": "Fix blank Ext overnight: accept Yahoo PREPRE/PRE while wall clock is still post (16:00-04:00 ET)."
 }

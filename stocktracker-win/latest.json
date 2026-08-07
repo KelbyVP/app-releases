@@ -1,6 +1,6 @@
 {
-  "version": "1.17.35",
-  "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.35_x64.msix",
+  "version": "1.17.36",
+  "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.36_x64.msix",
   "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-  "notes": "Positions Ext $ / Ext % columns (after-hours move vs today's regular close); evening display through overnight; one-shot Ext fetch on open (no after-hours polling); Yahoo crumb seed fallback via finance.yahoo.com when fc.yahoo.com fails."
+  "notes": "Fix blank Ext overnight: accept Yahoo PREPRE/PRE while wall clock is still post (16:00-04:00 ET)."
 }
