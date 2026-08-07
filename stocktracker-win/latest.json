@@ -1,6 +1,6 @@
 {
-  "version": "1.17.36",
-  "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.36_x64.msix",
+  "version": "1.17.37",
+  "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.37_x64.msix",
   "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-  "notes": "Fix blank Ext overnight: accept Yahoo PREPRE/PRE while wall clock is still post (16:00-04:00 ET)."
+  "notes": "Fix inflated Ext % (e.g. QBTS): use Yahoo postMarketChange for AH base; replace chart regularMarketPrice when outside today's day range."
 }
