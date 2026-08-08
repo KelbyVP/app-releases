@@ -1,6 +1,6 @@
 {
-  "version": "1.17.37",
-  "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.37_x64.msix",
-  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-  "notes": "Fix inflated Ext % (e.g. QBTS): use Yahoo postMarketChange for AH base; replace chart regularMarketPrice when outside today's day range."
+    "version":  "1.17.38",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.38_x64.msix",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
+    "notes":  "Extended-hours figures no longer blank out from midnight ET Saturday (weekend gate now follows the trading session); vs-S\u0026P comparison keys to true purchase dates for imported holdings; Windows: local Excel bridge at 127.0.0.1:8791 (/account-values, /health); Android update-install fix."
 }
