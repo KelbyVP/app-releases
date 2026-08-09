@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.38",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.38_x64.msix",
+    "version":  "1.17.39",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.39_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Extended-hours figures no longer blank out from midnight ET Saturday (weekend gate now follows the trading session); vs-S\u0026P comparison keys to true purchase dates for imported holdings; Windows: local Excel bridge at 127.0.0.1:8791 (/account-values, /health); Android update-install fix."
+    "notes":  "- fix: wear app re-checks for updates on every resume, not just onCreate"
 }

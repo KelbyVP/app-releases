@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AppInstaller xmlns="http://schemas.microsoft.com/appx/appinstaller/2021" Version="1.17.38.0" Uri="https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/StockTracker.appinstaller">
-  <MainPackage Name="KelbyVP.KVPStockTracker" Publisher="CN=kelby" Version="1.17.38.0" ProcessorArchitecture="x64" Uri="https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.38_x64.msix" />
+<AppInstaller xmlns="http://schemas.microsoft.com/appx/appinstaller/2021" Version="1.17.39.0" Uri="https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/StockTracker.appinstaller">
+  <MainPackage Name="KelbyVP.KVPStockTracker" Publisher="CN=kelby" Version="1.17.39.0" ProcessorArchitecture="x64" Uri="https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.39_x64.msix" />
   <UpdateSettings>
     <OnLaunch HoursBetweenUpdateChecks="0" ShowPrompt="false" />
     <AutomaticBackgroundTask />
