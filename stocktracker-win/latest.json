@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.39",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.39_x64.msix",
+    "version":  "1.17.40",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.40_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- fix: wear app re-checks for updates on every resume, not just onCreate"
+    "notes":  "- feat: Positions header gain/loss tooltips + manual crypto override"
 }

@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.39",
-    "versionCode":  1786219268,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.39-arm64.apk",
-    "notes":  "- fix: wear app re-checks for updates on every resume, not just onCreate"
+    "version":  "1.17.40",
+    "versionCode":  1786356066,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.40-arm64.apk",
+    "notes":  "- feat: Positions header gain/loss tooltips + manual crypto override"
 }
