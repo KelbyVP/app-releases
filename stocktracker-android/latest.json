@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.40",
-    "versionCode":  1786356066,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.40-arm64.apk",
-    "notes":  "- feat: Positions header gain/loss tooltips + manual crypto override"
+  "version": "1.17.41",
+  "versionCode": 1786424008,
+  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.41-arm64.apk",
+  "notes": "fix: Android in-app update installs again after download (FileProvider code_cache regression from 1.17.33; stage APK under cacheDir before install)"
 }
