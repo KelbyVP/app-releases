@@ -1,6 +1,6 @@
 {
-  "version": "1.17.41",
-  "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.41_x64.msix",
-  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-  "notes": "fix: Android in-app update installs again after download (FileProvider code_cache regression from 1.17.33; stage APK under cacheDir before install)"
+    "version":  "1.17.42",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.42_x64.msix",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
+    "notes":  "- fix: Android in-app update recovery via manifest path (no manual APK)"
 }
