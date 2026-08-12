@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.25",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.25/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.25/KelbysChristmas-Setup.exe",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.25",
-    "notes":  "Architecture cleanup: shell VMs, people slice VMs, MainWindow chrome-only, generation-guarded sync."
+  "version": "0.1.26",
+  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.26/kelbys-christmas.zip",
+  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.26/KelbysChristmas-Setup.exe",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.26",
+  "notes": "Android channel catch-up; ship Android with Windows"
 }
