@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.42",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.42_x64.msix",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- fix: Android in-app update recovery via manifest path (no manual APK)"
+  "version": "1.17.43",
+  "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.43_x64.msix",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
+  "notes": "Drive pull takes Drive lots and Drive sells as one snapshot. Leftover local sells cannot shrink the book. ATH merge keeps the higher mark."
 }
