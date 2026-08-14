@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.45",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.45_x64.msix",
+    "version":  "1.17.46",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.46_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- fix: ATH highlight on Android, $1 NAV exclusion, and manual-sync cloud icon"
+    "notes":  "- fix: auto-publish after reboot"
 }

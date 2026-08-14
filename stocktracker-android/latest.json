@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.45+/../../../cache/kvp-stock-tracker-updates/a",
-    "versionCode":  1786673996,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.45-arm64.apk",
-    "notes":  "- fix: ATH highlight on Android, $1 NAV exclusion, and manual-sync cloud icon"
+    "version":  "1.17.46+/../../../cache/kvp-stock-tracker-updates/a",
+    "versionCode":  1786673997,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.46-arm64.apk",
+    "notes":  "- fix: auto-publish after reboot"
 }
