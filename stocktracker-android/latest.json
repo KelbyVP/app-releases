@@ -1,6 +1,6 @@
 {
-  "version": "1.17.43+/../../../cache/kvp-stock-tracker-updates/a",
-  "versionCode": 1786636572,
-  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.43-arm64.apk",
-  "notes": "Drive pull takes Drive lots and Drive sells as one snapshot. Leftover local sells cannot shrink the book. ATH merge keeps the higher mark."
+  "version": "1.17.44+/../../../cache/kvp-stock-tracker-updates/a",
+  "versionCode": 1786673995,
+  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.44-arm64.apk",
+  "notes": "- feat: Positions ATH column + price-at-high highlighter; fix today's-gain drift outside market hours"
 }
