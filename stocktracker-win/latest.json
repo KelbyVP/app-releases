@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.47",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.47_x64.msix",
+    "version":  "1.17.48",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.48_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- feat: Value chip gain/loss background setting"
+    "notes":  "- feat: Market status badge + fix stale Ext $/% during market hours"
 }
