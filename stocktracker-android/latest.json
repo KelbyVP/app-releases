@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.50+/../../../cache/kvp-stock-tracker-updates/a",
-    "versionCode":  1786752048,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.50-arm64.apk",
-    "notes":  "- feat: prompt to exempt from battery optimization when enabling background checks\n- fix: watch app re-syncs latest summary on every foreground entry"
+    "version":  "1.17.51+/../../../cache/kvp-stock-tracker-updates/a",
+    "versionCode":  1786809667,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.51-arm64.apk",
+    "notes":  "- chore: bump build number for watch app relative-age change\n- feat: show relative age next to as-of time on watch app"
 }

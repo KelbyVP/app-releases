@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.50",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.50_x64.msix",
+    "version":  "1.17.51",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.51_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- feat: prompt to exempt from battery optimization when enabling background checks\n- fix: watch app re-syncs latest summary on every foreground entry"
+    "notes":  "- chore: bump build number for watch app relative-age change\n- feat: show relative age next to as-of time on watch app"
 }
