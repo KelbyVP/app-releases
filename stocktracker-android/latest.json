@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.49+/../../../cache/kvp-stock-tracker-updates/a",
-    "versionCode":  1786744867,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.49-arm64.apk",
-    "notes":  "- fix: match official extended-hours windows exactly\n- feat: hold Ext $/% at last known value over the weekend\n- fix: hide Drive-sync Push when this device has no local lots\n- feat: watch on-demand refresh; fix background push reliability"
+    "version":  "1.17.50+/../../../cache/kvp-stock-tracker-updates/a",
+    "versionCode":  1786752048,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.50-arm64.apk",
+    "notes":  "- feat: prompt to exempt from battery optimization when enabling background checks\n- fix: watch app re-syncs latest summary on every foreground entry"
 }
