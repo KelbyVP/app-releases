@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.54",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.54_x64.msix",
+    "version":  "1.17.55",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.55_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Add ATH shortfall tooltip and make Did-it-work? sections collapsible"
+    "notes":  "- Fix missing section divider and reposition total on Did-it-work? tab"
 }
