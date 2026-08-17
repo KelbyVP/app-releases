@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.53+/../../../cache/kvp-stock-tracker-updates/a",
-    "versionCode":  1786924874,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.53-arm64.apk",
-    "notes":  "- Persist the Bars-tab date range like other view state\n- Split-adjust historical closes to fix post-split gain/loss math\n- Add stock-split detection with a guided cost-basis review dialog\n- Add per-edit sale-record control and a Bars-tab date-range filter"
+    "version":  "1.17.54+/../../../cache/kvp-stock-tracker-updates/a",
+    "versionCode":  1786968067,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.54-arm64.apk",
+    "notes":  "- Add ATH shortfall tooltip and make Did-it-work? sections collapsible"
 }

@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.53",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.53_x64.msix",
+    "version":  "1.17.54",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.54_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Persist the Bars-tab date range like other view state\n- Split-adjust historical closes to fix post-split gain/loss math\n- Add stock-split detection with a guided cost-basis review dialog\n- Add per-edit sale-record control and a Bars-tab date-range filter"
+    "notes":  "- Add ATH shortfall tooltip and make Did-it-work? sections collapsible"
 }
