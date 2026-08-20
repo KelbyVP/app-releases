@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.56",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.56_x64.msix",
+    "version":  "1.17.57",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.57_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Fix ATH/Value highlighter using the wrong all-time-high definition"
+    "notes":  "Virtual portfolios: start from all holdings and uncheck to exclude; live Value/gain/today in the editor. Watch: durable relay holdings upload, Drive-first refresh, one source for effective holdings."
 }

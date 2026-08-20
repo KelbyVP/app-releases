@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.56+/../../../cache/kvp-stock-tracker-updates/a",
-    "versionCode":  1787162470,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.56-arm64.apk",
-    "notes":  "- Fix ATH/Value highlighter using the wrong all-time-high definition"
+    "version":  "1.17.57+/../../../cache/kvp-stock-tracker-updates/a",
+    "versionCode":  1787202520,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.57-arm64.apk",
+    "notes":  "Virtual portfolios: start from all holdings and uncheck to exclude; live Value/gain/today in the editor. Watch: durable relay holdings upload, Drive-first refresh, one source for effective holdings."
 }
