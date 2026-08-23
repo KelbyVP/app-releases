@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.57+/../../../cache/kvp-stock-tracker-updates/a",
-    "versionCode":  1787202520,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.57-arm64.apk",
-    "notes":  "Virtual portfolios: start from all holdings and uncheck to exclude; live Value/gain/today in the editor. Watch: durable relay holdings upload, Drive-first refresh, one source for effective holdings."
+    "version":  "1.17.58+/../../../cache/kvp-stock-tracker-updates/a",
+    "versionCode":  1787479276,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.58-arm64.apk",
+    "notes":  "- Exclude money-market tickers (SPAXX, FDRXX) from ATH tracking by identity, not by $1.00 price match\n- Fix today\u0027s gain to zero (unfrozen) or hold at the last extended print (frozen) when the market is fully closed"
 }

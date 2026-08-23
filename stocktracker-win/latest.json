@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.57",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.57_x64.msix",
+    "version":  "1.17.58",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.58_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "Virtual portfolios: start from all holdings and uncheck to exclude; live Value/gain/today in the editor. Watch: durable relay holdings upload, Drive-first refresh, one source for effective holdings."
+    "notes":  "- Exclude money-market tickers (SPAXX, FDRXX) from ATH tracking by identity, not by $1.00 price match\n- Fix today\u0027s gain to zero (unfrozen) or hold at the last extended print (frozen) when the market is fully closed"
 }
