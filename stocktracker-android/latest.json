@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.59+/../../../cache/kvp-stock-tracker-updates/a",
-    "versionCode":  1787616086,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.59-arm64.apk",
-    "notes":  "- Rename the today\u0027s-gain freeze toggle to \"Include extended hours\", add an Ext badge to the Today chips, and regroup Settings switches"
+    "version":  "1.17.60+/../../../cache/kvp-stock-tracker-updates/a",
+    "versionCode":  1787666476,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.60-arm64.apk",
+    "notes":  "- Fix the lot dialog\u0027s shares/total/cost-per-share derivation to make Cost per share pinning an explicit session flag\n- Let virtual portfolios include not-held tickers with custom lots, add a price-on-date lookup to the lot form, and fix Drive out-of-sync detection for VP/fund edits"
 }
