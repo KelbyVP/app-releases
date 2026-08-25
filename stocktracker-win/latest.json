@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.58",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.58_x64.msix",
+    "version":  "1.17.59",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.59_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Exclude money-market tickers (SPAXX, FDRXX) from ATH tracking by identity, not by $1.00 price match\n- Fix today\u0027s gain to zero (unfrozen) or hold at the last extended print (frozen) when the market is fully closed"
+    "notes":  "- Rename the today\u0027s-gain freeze toggle to \"Include extended hours\", add an Ext badge to the Today chips, and regroup Settings switches"
 }

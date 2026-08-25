@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.58+/../../../cache/kvp-stock-tracker-updates/a",
-    "versionCode":  1787479276,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.58-arm64.apk",
-    "notes":  "- Exclude money-market tickers (SPAXX, FDRXX) from ATH tracking by identity, not by $1.00 price match\n- Fix today\u0027s gain to zero (unfrozen) or hold at the last extended print (frozen) when the market is fully closed"
+    "version":  "1.17.59+/../../../cache/kvp-stock-tracker-updates/a",
+    "versionCode":  1787616086,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.59-arm64.apk",
+    "notes":  "- Rename the today\u0027s-gain freeze toggle to \"Include extended hours\", add an Ext badge to the Today chips, and regroup Settings switches"
 }
