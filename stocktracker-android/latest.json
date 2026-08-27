@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.60+/../../../cache/kvp-stock-tracker-updates/a",
-    "versionCode":  1787666476,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.60-arm64.apk",
-    "notes":  "- Fix the lot dialog\u0027s shares/total/cost-per-share derivation to make Cost per share pinning an explicit session flag\n- Let virtual portfolios include not-held tickers with custom lots, add a price-on-date lookup to the lot form, and fix Drive out-of-sync detection for VP/fund edits"
+  "version": "1.17.61+/../../../cache/kvp-stock-tracker-updates/a",
+  "versionCode": 1787845753,
+  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.61-arm64.apk",
+  "notes": "Partial Schwab transaction files no longer replace lots they never re-supplied; duplicate stock-split credits are dropped when lots were already share-adjusted."
 }

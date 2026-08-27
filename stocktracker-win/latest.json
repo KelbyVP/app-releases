@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.60",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.60_x64.msix",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Fix the lot dialog\u0027s shares/total/cost-per-share derivation to make Cost per share pinning an explicit session flag\n- Let virtual portfolios include not-held tickers with custom lots, add a price-on-date lookup to the lot form, and fix Drive out-of-sync detection for VP/fund edits"
+  "version": "1.17.61",
+  "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.61_x64.msix",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
+  "notes": "Partial Schwab transaction files no longer replace lots they never re-supplied; duplicate stock-split credits are dropped when lots were already share-adjusted."
 }
