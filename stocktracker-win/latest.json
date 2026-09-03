@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.64",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.64_x64.msix",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Only highlight the Value cell at ATH on Android; keep both cells on Windows\n- Scope includeExtendedHours to the portfolio Today chip only, mark frozen Day $/% on ticker rows"
+  "version": "1.17.65",
+  "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.65_x64.msix",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
+  "notes": "Keep post-uncovered-sell Schwab buys so Trad TSLA/TSM lots land. Android in-app update uses PackageInstaller."
 }
