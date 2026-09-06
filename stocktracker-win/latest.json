@@ -1,6 +1,6 @@
 {
-  "version": "1.17.65",
-  "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.65_x64.msix",
-  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-  "notes": "Keep post-uncovered-sell Schwab buys so Trad TSLA/TSM lots land. Android in-app update uses PackageInstaller."
+    "version":  "1.17.66",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.66_x64.msix",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
+    "notes":  "- Add cost-basis-by-account breakdown on Value chip long-press"
 }
