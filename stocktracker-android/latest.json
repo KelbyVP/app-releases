@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.67",
-    "versionCode":  1788883290,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.67-arm64.apk",
-    "notes":  "- Add Fidelity tax-lot detail CSV import"
+    "version":  "1.17.68",
+    "versionCode":  1788897674,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.68-arm64.apk",
+    "notes":  "- Fix ATH surviving \"wipe this device only\""
 }
