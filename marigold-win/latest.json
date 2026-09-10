@@ -1,7 +1,7 @@
 {
-  "version": "0.1.4",
-  "packageUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/marigold-win/Marigold-0.1.4.zip",
-  "setupUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/marigold-win/Marigold-Setup-0.1.4.exe",
-  "releaseUrl": "https://github.com/KelbyVP/marigold/releases/tag/v0.1.4",
-  "notes": "Stamp a class cancelled for one day on the week board."
+  "version": "0.1.5",
+  "packageUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/marigold-win/Marigold-0.1.5.zip",
+  "setupUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/marigold-win/Marigold-Setup-0.1.5.exe",
+  "releaseUrl": "https://github.com/KelbyVP/marigold/releases/tag/v0.1.5",
+  "notes": "Class names and card buttons are fully readable on the week board."
 }
