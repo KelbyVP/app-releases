@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.68",
-    "versionCode":  1788897674,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.68-arm64.apk",
-    "notes":  "- Fix ATH surviving \"wipe this device only\""
+    "version":  "1.17.69",
+    "versionCode":  1788984066,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.69-arm64.apk",
+    "notes":  "- Pin column labels on Did-it-work? sections while scrolling"
 }
