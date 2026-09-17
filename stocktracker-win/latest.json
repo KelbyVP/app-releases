@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.69",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.69_x64.msix",
+    "version":  "1.17.70",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.70_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Pin column labels on Did-it-work? sections while scrolling"
+    "notes":  "- Add on-device diagnostic for the market-status check"
 }

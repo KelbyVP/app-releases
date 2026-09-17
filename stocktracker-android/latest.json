@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.69",
-    "versionCode":  1788984066,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.69-arm64.apk",
-    "notes":  "- Pin column labels on Did-it-work? sections while scrolling"
+    "version":  "1.17.70",
+    "versionCode":  1789603321,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.70-arm64.apk",
+    "notes":  "- Add on-device diagnostic for the market-status check"
 }
