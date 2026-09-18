@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.70",
-    "versionCode":  1789603321,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.70-arm64.apk",
-    "notes":  "- Add on-device diagnostic for the market-status check"
+    "version":  "1.17.71",
+    "versionCode":  1789747257,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.71-arm64.apk",
+    "notes":  "- Interleave stocks/crypto in Positions \"All\" view for non-Ticker sorts"
 }
