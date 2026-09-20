@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.71",
-    "versionCode":  1789747257,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.71-arm64.apk",
-    "notes":  "- Interleave stocks/crypto in Positions \"All\" view for non-Ticker sorts"
+    "version":  "1.17.72",
+    "versionCode":  1789912878,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.72-arm64.apk",
+    "notes":  "- Don\u0027t show FROZEN tag on crypto Day $/Day % cells"
 }
