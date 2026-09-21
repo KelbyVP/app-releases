@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.72",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.72_x64.msix",
+    "version":  "1.17.73",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.73_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Don\u0027t show FROZEN tag on crypto Day $/Day % cells"
+    "notes":  "- Fire ATH chime on watch on-demand refreshes too"
 }

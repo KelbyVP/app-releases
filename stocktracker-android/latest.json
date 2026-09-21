@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.72",
-    "versionCode":  1789912878,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.72-arm64.apk",
-    "notes":  "- Don\u0027t show FROZEN tag on crypto Day $/Day % cells"
+    "version":  "1.17.73",
+    "versionCode":  1789977665,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.73-arm64.apk",
+    "notes":  "- Fire ATH chime on watch on-demand refreshes too"
 }
