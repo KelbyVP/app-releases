@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.74",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.74_x64.msix",
+    "version":  "1.17.75",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.75_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Show \"-dbg\" on the version label of debug builds\n- Route Android HTTP traffic through the device\u0027s configured proxy\n- Make full price refresh incremental and batch the slow fetches"
+    "notes":  "- Keep the OAuth homepage in site/ and ignore the installer drop."
 }
