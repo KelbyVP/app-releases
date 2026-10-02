@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.75",
-    "versionCode":  1790870464,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.75-arm64.apk",
-    "notes":  "- Keep the OAuth homepage in site/ and ignore the installer drop."
+    "version":  "1.17.76",
+    "versionCode":  1790920864,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.76-arm64.apk",
+    "notes":  "- Keep the phone awake until a watch long-press refresh reaches the watch"
 }
