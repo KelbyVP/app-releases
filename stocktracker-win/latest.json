@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.76",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.76_x64.msix",
+    "version":  "1.17.77",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.77_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Keep the phone awake until a watch long-press refresh reaches the watch"
+    "notes":  "- Count ZHGIDX\u0027s 6% monthly distributions as income\n- Count the S\u0026P benchmark\u0027s dividends at full size\n- Route the background watch refresh through the device\u0027s proxy"
 }
