@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.77",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.77_x64.msix",
+    "version":  "1.17.78",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.78_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Count ZHGIDX\u0027s 6% monthly distributions as income\n- Count the S\u0026P benchmark\u0027s dividends at full size\n- Route the background watch refresh through the device\u0027s proxy"
+    "notes":  "- List what differs from Drive in the sync dialog\n- Scroll the virtual portfolio editor as one list\n- Make Pull now (overwrite) replace virtual portfolios and funds too"
 }

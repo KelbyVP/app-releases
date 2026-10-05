@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.77",
-    "versionCode":  1791021668,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.77-arm64.apk",
-    "notes":  "- Count ZHGIDX\u0027s 6% monthly distributions as income\n- Count the S\u0026P benchmark\u0027s dividends at full size\n- Route the background watch refresh through the device\u0027s proxy"
+    "version":  "1.17.78",
+    "versionCode":  1791194471,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.78-arm64.apk",
+    "notes":  "- List what differs from Drive in the sync dialog\n- Scroll the virtual portfolio editor as one list\n- Make Pull now (overwrite) replace virtual portfolios and funds too"
 }
