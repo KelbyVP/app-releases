@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.78",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.78_x64.msix",
+    "version":  "1.17.79",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.79_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- List what differs from Drive in the sync dialog\n- Scroll the virtual portfolio editor as one list\n- Make Pull now (overwrite) replace virtual portfolios and funds too"
+    "notes":  "- Show a countdown to the market close while the market is open"
 }

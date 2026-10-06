@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.78",
-    "versionCode":  1791194471,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.78-arm64.apk",
-    "notes":  "- List what differs from Drive in the sync dialog\n- Scroll the virtual portfolio editor as one list\n- Make Pull now (overwrite) replace virtual portfolios and funds too"
+    "version":  "1.17.79",
+    "versionCode":  1791288132,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.79-arm64.apk",
+    "notes":  "- Show a countdown to the market close while the market is open"
 }
