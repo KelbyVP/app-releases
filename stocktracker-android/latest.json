@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.79",
-    "versionCode":  1791288132,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.79-arm64.apk",
-    "notes":  "- Show a countdown to the market close while the market is open"
+    "version":  "1.17.80",
+    "versionCode":  1791295236,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.80-arm64.apk",
+    "notes":  "- Keep the market-close countdown from truncating beside the Open tag\n- Show seconds in the market-close countdown during the final hour"
 }

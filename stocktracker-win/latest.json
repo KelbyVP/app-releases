@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.79",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.79_x64.msix",
+    "version":  "1.17.80",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.80_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Show a countdown to the market close while the market is open"
+    "notes":  "- Keep the market-close countdown from truncating beside the Open tag\n- Show seconds in the market-close countdown during the final hour"
 }
