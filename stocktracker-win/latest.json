@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.80",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.80_x64.msix",
+    "version":  "1.17.81",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.81_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Keep the market-close countdown from truncating beside the Open tag\n- Show seconds in the market-close countdown during the final hour"
+    "notes":  "- Check out pinned kvp-shared beside the autobuild clone before release builds. (#3)\n- Drop the unused Android googleconsent native build (#2)\n- Show a countdown to the market open while the market is closed\n- Keep multi-lot ATH highlighting from failing on Yahoo float noise\n- Route desktop Google sign-in through the pinned kvp-shared consent library."
 }
