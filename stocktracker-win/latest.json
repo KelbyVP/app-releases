@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.85",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.85_x64.msix",
+    "version":  "1.17.86",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.86_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Send the desktop Drive token request as a form\n- Integrate segment assignments into the Targets analytics and sync them"
+    "notes":  "- Stop double-adjusting split prices that Yahoo already adjusted"
 }
