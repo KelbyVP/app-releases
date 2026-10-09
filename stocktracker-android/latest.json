@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.83",
-    "versionCode":  1791483032,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.83-arm64.apk",
-    "notes":  "- Export googleconsent from the Windows exe. (#5)\n- Keep frozen Day $/% after the close instead of dropping to 0"
+    "version":  "1.17.84",
+    "versionCode":  1791496869,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.84-arm64.apk",
+    "notes":  "- Reuse one app-releases checkout across publishes (#4)"
 }

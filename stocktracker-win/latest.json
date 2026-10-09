@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.83",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.83_x64.msix",
+    "version":  "1.17.84",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.84_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Export googleconsent from the Windows exe. (#5)\n- Keep frozen Day $/% after the close instead of dropping to 0"
+    "notes":  "- Reuse one app-releases checkout across publishes (#4)"
 }
