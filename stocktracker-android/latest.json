@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.82",
-    "versionCode":  1791482473,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.82-arm64.apk",
-    "notes":  "- Use a checkbox for the Assign tickers \"not in any segment\" filter\n- Add \"Assign tickers\" to the holdings-by-segment table\n- Match Industry cards to Segment Mix order; add holdings-by-segment table\n- Pin a Segment Mix selection\u0027s card header to the top of the list\n- Drop the \"Market status:\" label when the countdown would not fit"
+    "version":  "1.17.83",
+    "versionCode":  1791483032,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.83-arm64.apk",
+    "notes":  "- Export googleconsent from the Windows exe. (#5)\n- Keep frozen Day $/% after the close instead of dropping to 0"
 }
