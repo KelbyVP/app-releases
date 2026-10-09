@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.81",
-    "versionCode":  1791468036,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.81-arm64.apk",
-    "notes":  "- Check out pinned kvp-shared beside the autobuild clone before release builds. (#3)\n- Drop the unused Android googleconsent native build (#2)\n- Show a countdown to the market open while the market is closed\n- Keep multi-lot ATH highlighting from failing on Yahoo float noise\n- Route desktop Google sign-in through the pinned kvp-shared consent library."
+    "version":  "1.17.82",
+    "versionCode":  1791482473,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.82-arm64.apk",
+    "notes":  "- Use a checkbox for the Assign tickers \"not in any segment\" filter\n- Add \"Assign tickers\" to the holdings-by-segment table\n- Match Industry cards to Segment Mix order; add holdings-by-segment table\n- Pin a Segment Mix selection\u0027s card header to the top of the list\n- Drop the \"Market status:\" label when the countdown would not fit"
 }
