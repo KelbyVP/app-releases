@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.27",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.27/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.27/KelbysChristmas-Setup.exe",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.27",
-    "notes":  "Removing a second wish no longer crashes. Choosing a cancelled gift again keeps that choice."
+    "version":  "0.1.28",
+    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.28/kelbys-christmas.zip",
+    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.28/KelbysChristmas-Setup.exe",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.28",
+    "notes":  "Phone screens show the full title, the empty list, and the save button."
 }
