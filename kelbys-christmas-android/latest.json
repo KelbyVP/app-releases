@@ -1,7 +1,7 @@
 {
-  "version": "0.1.26",
-  "versionCode": 1786513500,
-  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
-  "notes": "Android channel catch-up; ship Android with Windows",
-  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
+    "version":  "0.1.27",
+    "versionCode":  1792774040,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
+    "notes":  "Removing a second wish no longer crashes. Choosing a cancelled gift again keeps that choice.",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
 }
