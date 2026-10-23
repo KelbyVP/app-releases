@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.28",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.28/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.28/KelbysChristmas-Setup.exe",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.28",
-    "notes":  "Phone screens show the full title, the empty list, and the save button."
+  "version": "0.1.29",
+  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.29/kelbys-christmas.zip",
+  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.29/KelbysChristmas-Setup.exe",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.29",
+  "notes": "The checks that build this app now pass. What you see is the same as the last update."
 }
