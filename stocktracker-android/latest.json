@@ -1,6 +1,6 @@
 {
-  "version": "1.17.89",
-  "versionCode": 1792430776,
-  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.89-arm64.apk",
-  "notes": "Ignore spinoff price adjustments in split detection (fixes false HON alert)"
+  "version": "1.17.90",
+  "versionCode": 1792801618,
+  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.90-arm64.apk",
+  "notes": "- Match Value and ATH highlight box heights on Windows\n- Keep identical Fidelity tax lots as separate lots"
 }
