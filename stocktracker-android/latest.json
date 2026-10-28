@@ -1,6 +1,6 @@
 {
-  "version": "1.17.91",
-  "versionCode": 1792809513,
-  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.91-arm64.apk",
-  "notes": "- Merge per-lot manual industry into main\n- Merge industry category header reveal into main\n- Merge QBTS industry override into main\n- Fix ambiguous Hardware tap in industry category reveal test\n- Add per-lot manual industry with earliest-lot aggregation and Drive sync\n- Pin QBTS to Quantum Computing via a built-in industry-label override\n- Pin category header to top of industry list on category-legend tap"
+    "version":  "1.17.92",
+    "versionCode":  1793167274,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.92-arm64.apk",
+    "notes":  "- Add Decompose Funds view to the Positions tab"
 }
