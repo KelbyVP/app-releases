@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.31",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.31/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.31/KelbysChristmas-Setup.exe",
-    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.31/kelbys-christmas.msix",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.31",
-    "notes":  "The pinned Windows app installs the published package."
+    "version":  "0.1.32",
+    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.32/kelbys-christmas.zip",
+    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.32/KelbysChristmas-Setup.exe",
+    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.32/kelbys-christmas.msix",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.32",
+    "notes":  "The Windows package install command uses the parameter Windows accepts."
 }
