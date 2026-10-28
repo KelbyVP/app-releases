@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.30",
-    "versionCode":  1793152783,
+    "version":  "0.1.31",
+    "versionCode":  1793205466,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
-    "notes":  "Phone updates download and open the install screen.",
+    "notes":  "The pinned Windows app installs the published package.",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
 }
