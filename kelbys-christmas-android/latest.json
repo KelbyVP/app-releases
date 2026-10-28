@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.32",
-    "versionCode":  1793206760,
+    "version":  "0.1.33",
+    "versionCode":  1793212513,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
-    "notes":  "The Windows package install command uses the parameter Windows accepts.",
+    "notes":  "The Account screen suggests a matching name. On People, you can create an account when you add someone.",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
 }
