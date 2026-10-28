@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.92",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.92_x64.msix",
+    "version":  "1.17.93",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.93_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Add Decompose Funds view to the Positions tab"
+    "notes":  "- Move Decompose Funds into the filter row\n- Give decomposed fund rows the regular phone layout\n- Match whole words in company names in Jump to ticker"
 }
