@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.33",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.33/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.33/KelbysChristmas-Setup.exe",
-    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.33/kelbys-christmas.msix",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.33",
-    "notes":  "The Account screen suggests a matching name. On People, you can create an account when you add someone."
+    "version":  "0.1.34",
+    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.34/kelbys-christmas.zip",
+    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.34/KelbysChristmas-Setup.exe",
+    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.34/kelbys-christmas.msix",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.34",
+    "notes":  "Kelby\u0027s Christmas 0.1.34"
 }
