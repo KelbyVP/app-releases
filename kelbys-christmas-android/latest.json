@@ -1,7 +1,7 @@
 {
-  "version": "0.1.35",
-  "versionCode": 1793425042,
+  "version": "0.1.36",
+  "versionCode": 1793434827,
   "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
-  "notes": "The gift-size window no longer stacks. A failed save keeps what he typed.",
+  "notes": "Festive type on the circle page and the other screens.",
   "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
 }

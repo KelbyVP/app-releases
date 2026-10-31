@@ -1,8 +1,8 @@
 {
-  "version": "0.1.35",
-  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.35/kelbys-christmas.zip",
-  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.35/KelbysChristmas-Setup.exe",
-  "msixUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.35/kelbys-christmas.msix",
-  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.35",
-  "notes": "The gift-size window no longer stacks. A failed save keeps what he typed."
+  "version": "0.1.36",
+  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.36/kelbys-christmas.zip",
+  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.36/KelbysChristmas-Setup.exe",
+  "msixUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.36/kelbys-christmas.msix",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.36",
+  "notes": "Festive type on the circle page and the other screens."
 }
