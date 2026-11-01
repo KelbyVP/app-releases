@@ -1,8 +1,8 @@
 {
-  "version": "0.1.36",
-  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.36/kelbys-christmas.zip",
-  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.36/KelbysChristmas-Setup.exe",
-  "msixUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.36/kelbys-christmas.msix",
-  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.36",
-  "notes": "Festive type on the circle page and the other screens."
+    "version":  "0.1.38",
+    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.38/kelbys-christmas.zip",
+    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.38/KelbysChristmas-Setup.exe",
+    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.38/kelbys-christmas.msix",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.38",
+    "notes":  "Phone layout: the empty wish list heading fits on small screens."
 }
