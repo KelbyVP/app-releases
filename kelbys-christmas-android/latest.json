@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.38",
-    "versionCode":  1793506192,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
-    "notes":  "Phone layout: the empty wish list heading fits on small screens.",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
+  "version": "0.1.39",
+  "versionCode": 1793554944,
+  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
+  "notes": "Shopping shows the person first, and a store link can show its price.",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
 }

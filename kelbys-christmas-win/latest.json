@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.38",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.38/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.38/KelbysChristmas-Setup.exe",
-    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.38/kelbys-christmas.msix",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.38",
-    "notes":  "Phone layout: the empty wish list heading fits on small screens."
+  "version": "0.1.39",
+  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.39/kelbys-christmas.zip",
+  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.39/KelbysChristmas-Setup.exe",
+  "msixUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.39/kelbys-christmas.msix",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.39",
+  "notes": "Shopping shows the person first, and a store link can show its price."
 }
