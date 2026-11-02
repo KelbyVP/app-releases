@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.40",
-    "versionCode":  1793645400,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
-    "notes":  "The price you type is the price you paid.",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
+  "version": "0.1.41",
+  "versionCode": 1793662625,
+  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
+  "notes": "Edit items on your shopping list",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
 }

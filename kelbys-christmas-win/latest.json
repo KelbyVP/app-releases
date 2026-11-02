@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.40",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.40/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.40/KelbysChristmas-Setup.exe",
-    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.40/kelbys-christmas.msix",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.40",
-    "notes":  "The price you type is the price you paid."
+  "version": "0.1.41",
+  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.41/kelbys-christmas.zip",
+  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.41/KelbysChristmas-Setup.exe",
+  "msixUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.41/kelbys-christmas.msix",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.41",
+  "notes": "Edit items on your shopping list"
 }
