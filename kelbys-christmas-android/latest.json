@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.42",
-    "versionCode":  1793691012,
+    "version":  "0.1.43",
+    "versionCode":  1793762145,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
-    "notes":  "Say what sharing, partners, and circles do",
+    "notes":  "Show sizes and favorites when you shop for someone.",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
 }

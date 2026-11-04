@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.42",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.42/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.42/KelbysChristmas-Setup.exe",
-    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.42/kelbys-christmas.msix",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.42",
-    "notes":  "Say what sharing, partners, and circles do"
+    "version":  "0.1.43",
+    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.43/kelbys-christmas.zip",
+    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.43/KelbysChristmas-Setup.exe",
+    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.43/kelbys-christmas.msix",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.43",
+    "notes":  "Show sizes and favorites when you shop for someone."
 }
