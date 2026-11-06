@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.94",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.94_x64.msix",
+    "version":  "1.17.95",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.95_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Put the Did it work? range picker above its summary\n- Show the Did it work? tab to everyone and compact its range picker"
+    "notes":  "- Log the real git error when fetch or push fails\n- Show company overviews on Decompose Funds\u0027 fund-only rows"
 }
