@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.95",
-    "versionCode":  1793970076,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.95-arm64.apk",
-    "notes":  "- Log the real git error when fetch or push fails\n- Show company overviews on Decompose Funds\u0027 fund-only rows"
+    "version":  "1.17.96",
+    "versionCode":  1793977277,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.96-arm64.apk",
+    "notes":  "- Report scheduled run failures through a windowless launcher\n- Retry app-releases and source pushes with backoff"
 }
