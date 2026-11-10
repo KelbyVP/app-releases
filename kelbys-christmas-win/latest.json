@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.45",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.45/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.45/KelbysChristmas-Setup.exe",
-    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.45/kelbys-christmas.msix",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.45",
-    "notes":  "Security and reliability fixes from a whole-system audit.\n\n- Family profiles are visible only inside your family or a live wishlist share\n- A failed sync no longer hides data or reports a false success\n- PIN unlock uses a stronger hash; stay-signed-in saves or forgets the password when you toggle it\n- Update downloads are HTTPS-only and digest-verified\n- A canceled claim no longer blocks the wish, and secret gifts stay secret"
+    "version":  "0.1.57",
+    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.57/kelbys-christmas.zip",
+    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.57/KelbysChristmas-Setup.exe",
+    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.57/kelbys-christmas.msix",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.57",
+    "notes":  "Use desktop space: compact heroes, two-column lists, and settings sections."
 }
