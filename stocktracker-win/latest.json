@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.96",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.96_x64.msix",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Report scheduled run failures through a windowless launcher\n- Retry app-releases and source pushes with backoff"
+  "version": "1.17.97",
+  "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.97_x64.msix",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
+  "notes": "- Count a buy held as r2:imp:X once, not beside a re-imported imp:X (#6)"
 }
