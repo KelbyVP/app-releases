@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.45",
-    "versionCode":  1794165406,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
-    "notes":  "Security and reliability fixes from a whole-system audit.\n\n- Family profiles are visible only inside your family or a live wishlist share\n- A failed sync no longer hides data or reports a false success\n- PIN unlock uses a stronger hash; stay-signed-in saves or forgets the password when you toggle it\n- Update downloads are HTTPS-only and digest-verified\n- A canceled claim no longer blocks the wish, and secret gifts stay secret",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
+  "version": "0.1.58",
+  "versionCode": 1794349561,
+  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
+  "notes": "MainWindow is now presentation only: update checks and automatic sync live in their own flows. Added a server test proving a claim cannot be retargeted.",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
 }

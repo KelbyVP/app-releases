@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.57",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.57/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.57/KelbysChristmas-Setup.exe",
-    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.57/kelbys-christmas.msix",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.57",
-    "notes":  "Use desktop space: compact heroes, two-column lists, and settings sections."
+  "version": "0.1.58",
+  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.58/kelbys-christmas.zip",
+  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.58/KelbysChristmas-Setup.exe",
+  "msixUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.58/kelbys-christmas.msix",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.58",
+  "notes": "MainWindow is now presentation only: update checks and automatic sync live in their own flows. Added a server test proving a claim cannot be retargeted."
 }
