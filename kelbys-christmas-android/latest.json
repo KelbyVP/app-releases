@@ -1,7 +1,7 @@
 {
-  "version": "0.1.58",
-  "versionCode": 1794349561,
-  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
-  "notes": "MainWindow is now presentation only: update checks and automatic sync live in their own flows. Added a server test proving a claim cannot be retargeted.",
-  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
+    "version":  "0.1.59",
+    "versionCode":  1794365992,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
+    "notes":  "Keep the device owner when reassigning wishes, drop a rejected sign-in token, and add the case-inventory test suites.",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
 }
