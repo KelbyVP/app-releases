@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.59",
-    "versionCode":  1794365992,
+    "version":  "0.1.60",
+    "versionCode":  1794468961,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
-    "notes":  "Keep the device owner when reassigning wishes, drop a rejected sign-in token, and add the case-inventory test suites.",
+    "notes":  "Claim prices, partner privacy, updates, and navigation fixes from the 11 November review.",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
 }
