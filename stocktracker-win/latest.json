@@ -1,6 +1,6 @@
 {
-  "version": "1.17.97",
-  "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.97_x64.msix",
-  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-  "notes": "- Count a buy held as r2:imp:X once, not beside a re-imported imp:X (#6)"
+    "version":  "1.17.98",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.98_x64.msix",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
+    "notes":  "- Add cash-reserve and credit-line planning tools\n- Record sales found by a positions import in sell history"
 }

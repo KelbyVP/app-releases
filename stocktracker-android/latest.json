@@ -1,6 +1,6 @@
 {
-  "version": "1.17.97",
-  "versionCode": 1794349857,
-  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.97-arm64.apk",
-  "notes": "- Count a buy held as r2:imp:X once, not beside a re-imported imp:X (#6)"
+    "version":  "1.17.98",
+    "versionCode":  1794488502,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.98-arm64.apk",
+    "notes":  "- Add cash-reserve and credit-line planning tools\n- Record sales found by a positions import in sell history"
 }
