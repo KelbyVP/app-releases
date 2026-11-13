@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.99",
-    "versionCode":  1794517290,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.99-arm64.apk",
-    "notes":  "- Only scroll to the focused ticker after a user action\n- Tag sales as reinvested or spending in Did it work?"
+    "version":  "1.17.100",
+    "versionCode":  1794582111,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.100-arm64.apk",
+    "notes":  "- Add an Android Auto portfolio screen and car notifications\n- Include fund holdings in a position\u0027s ATH when funds are decomposed"
 }

@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.99",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.99_x64.msix",
+    "version":  "1.17.100",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.100_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Only scroll to the focused ticker after a user action\n- Tag sales as reinvested or spending in Did it work?"
+    "notes":  "- Add an Android Auto portfolio screen and car notifications\n- Include fund holdings in a position\u0027s ATH when funds are decomposed"
 }
