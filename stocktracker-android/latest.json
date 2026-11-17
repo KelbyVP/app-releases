@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.104",
-    "versionCode":  1794870073,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.104-arm64.apk",
-    "notes":  "- Merge pull request #9 from KelbyVP/fix/positions-dated-cleanup\n- Clean up holdings already doubled by a moved \u0027Positions dated\u0027 day at launch"
+    "version":  "1.17.105",
+    "versionCode":  1794913288,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.105-arm64.apk",
+    "notes":  "- Close the About dialog too when an update offer is put off with Later\n- Keep the Android Auto summary quiet on the phone, and clear it once opened"
 }
