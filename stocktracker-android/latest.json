@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.102",
-    "versionCode":  1794855641,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.102-arm64.apk",
-    "notes":  "- Merge pull request #8 from KelbyVP/fix/positions-date-lock\n- Stop a moved \u0027Positions dated\u0027 date from double-counting purchases"
+    "version":  "1.17.103",
+    "versionCode":  1794862838,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.103-arm64.apk",
+    "notes":  "- Only upload Play builds from a sideload release checkout\n- Declare the Play build\u0027s car screen as a navigation app\n- Bump build number for the Play distribution build\n- Add a Google Play internal-testing build for the phone and watch apps"
 }

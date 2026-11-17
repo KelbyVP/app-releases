@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.102",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.102_x64.msix",
+    "version":  "1.17.103",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.103_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Merge pull request #8 from KelbyVP/fix/positions-date-lock\n- Stop a moved \u0027Positions dated\u0027 date from double-counting purchases"
+    "notes":  "- Only upload Play builds from a sideload release checkout\n- Declare the Play build\u0027s car screen as a navigation app\n- Bump build number for the Play distribution build\n- Add a Google Play internal-testing build for the phone and watch apps"
 }
