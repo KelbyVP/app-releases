@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.105",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.105_x64.msix",
+    "version":  "1.17.106",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.106_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Close the About dialog too when an update offer is put off with Later\n- Keep the Android Auto summary quiet on the phone, and clear it once opened"
+    "notes":  "- Show when the ATH was set, days since, and %/day in the shortfall popup"
 }
