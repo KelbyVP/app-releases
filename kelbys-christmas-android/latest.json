@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.61",
-    "versionCode":  1794991245,
+    "version":  "0.1.62",
+    "versionCode":  1794996969,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
-    "notes":  "Wave C: child safety, layout floors, and the circle-row focus ring",
+    "notes":  "Group and who can see my list",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
 }
