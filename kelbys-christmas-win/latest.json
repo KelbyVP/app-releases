@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.60",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.60/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.60/KelbysChristmas-Setup.exe",
-    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.60/kelbys-christmas.msix",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.60",
-    "notes":  "Claim prices, partner privacy, updates, and navigation fixes from the 11 November review."
+    "version":  "0.1.61",
+    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.61/kelbys-christmas.zip",
+    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.61/KelbysChristmas-Setup.exe",
+    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.61/kelbys-christmas.msix",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.61",
+    "notes":  "Wave C: child safety, layout floors, and the circle-row focus ring"
 }
