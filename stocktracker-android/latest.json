@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.107",
-    "versionCode":  1794942050,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.107-arm64.apk",
-    "notes":  "- Merge pull request #10 from KelbyVP/feat/holdings-identity-from-file\n- Bump build number for the legacy positions repair changes\n- Merge origin/main (Release 1.17.106) into feat/holdings-identity-from-file\n- Legacy repair round 5: par snapshots dedupe like fillers, weak = dollar-amount orders only, veto unseen bought tickers\n- Address round-4 review of PR #10: trust only file-read dates in both always-on cleanups, whole-dollar totals are weak, contradiction veto, log applied changes, clock-skew margin, fallback tombstones\n- Address round-3 review of PR #10 (N1-N7): cent-exact stock costs, strong witnesses on other holdings only, synced import markers for undo, backups never block loading, write-once backups per change, generic account-type words\n- Address round-2 review of PR #10 (R1-R10): general rules only, undo that sticks, bounded backups\n- Address review of PR #10: strong proofs only, accounts never joined across types, one-time repair with backup and undo\n- Release 1.17.106 (old-data positions repair, stable account identity, automatic split fixes)\n- Merge remote-tracking branch \u0027origin/main\u0027 into feat/holdings-identity-from-file\n- Old-data positions repair from saved evidence (per broker, account, holding)\n- Holdings identity: stable Schwab account by masked ending, from-file mark and import time on positions holdings, automatic clear-cut split fixes"
+    "version":  "1.17.108",
+    "versionCode":  1795158106,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.108-arm64.apk",
+    "notes":  "- Unselect the search\u0027s ticker when the search box is cleared with its x"
 }
