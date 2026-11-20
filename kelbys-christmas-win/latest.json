@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.62",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.62/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.62/KelbysChristmas-Setup.exe",
-    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.62/kelbys-christmas.msix",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.62",
-    "notes":  "Group and who can see my list"
+    "version":  "0.1.63",
+    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.63/kelbys-christmas.zip",
+    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.63/KelbysChristmas-Setup.exe",
+    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.63/kelbys-christmas.msix",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.63",
+    "notes":  "Kelby\u0027s Christmas 0.1.63"
 }
