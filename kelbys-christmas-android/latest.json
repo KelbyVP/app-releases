@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.72",
-    "versionCode":  1795337557,
+    "version":  "0.1.73",
+    "versionCode":  1795341074,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
-    "notes":  "She and He show on the Add person card. A wish card shows a picture the watcher has already stored.",
+    "notes":  "She and He fit on the Add person card. A wish picture stored on the server shows on this PC.",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
 }
