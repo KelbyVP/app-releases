@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.71",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.71/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.71/KelbysChristmas-Setup.exe",
-    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.71/kelbys-christmas.msix",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.71",
-    "notes":  "One press opens the person you are shopping for. Hover the ornament or the gift to read the count. Budget and status show a mark and a number. She and He are saved on the person. A wish picture stored on the server downloads when this PC does not have the file yet."
+    "version":  "0.1.72",
+    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.72/kelbys-christmas.zip",
+    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.72/KelbysChristmas-Setup.exe",
+    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.72/kelbys-christmas.msix",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.72",
+    "notes":  "She and He show on the Add person card. A wish card shows a picture the watcher has already stored."
 }

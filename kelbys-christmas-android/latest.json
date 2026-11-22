@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.71",
-    "versionCode":  1795328397,
+    "version":  "0.1.72",
+    "versionCode":  1795337557,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
-    "notes":  "One press opens the person you are shopping for. Hover the ornament or the gift to read the count. Budget and status show a mark and a number. She and He are saved on the person. A wish picture stored on the server downloads when this PC does not have the file yet.",
+    "notes":  "She and He show on the Add person card. A wish card shows a picture the watcher has already stored.",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
 }
