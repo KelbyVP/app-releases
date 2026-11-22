@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.68",
-    "versionCode":  1795313343,
+    "version":  "0.1.69",
+    "versionCode":  1795316678,
     "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
-    "notes":  "Shopping is easier. One press opens a person. One press marks a gift ordered, arrived, or wrapped. You can remove a gift you are buying. The add-gift window fits its fields. Home shows gifts that still need an order, an arrival, or wrapping. A gift for more than one person is one purchase. On Android, scrolling no longer opens a card.",
+    "notes":  "A picture the watcher picked can be rejected. Try another picture asks for a different one. A photo you chose stays. A gift shows the picture that was saved.",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
 }
