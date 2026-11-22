@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.67",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.67/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.67/KelbysChristmas-Setup.exe",
-    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.67/kelbys-christmas.msix",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.67",
-    "notes":  "Fix Android sync, Shopping/People/Sizes/MyList bugs, per-person shopping counts, avatar sync + icon prompt, clear gift button copy, and Windows/Android UI overhaul"
+    "version":  "0.1.68",
+    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.68/kelbys-christmas.zip",
+    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.68/KelbysChristmas-Setup.exe",
+    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.68/kelbys-christmas.msix",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.68",
+    "notes":  "Shopping is easier. One press opens a person. One press marks a gift ordered, arrived, or wrapped. You can remove a gift you are buying. The add-gift window fits its fields. Home shows gifts that still need an order, an arrival, or wrapping. A gift for more than one person is one purchase. On Android, scrolling no longer opens a card."
 }
