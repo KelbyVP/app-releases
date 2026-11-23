@@ -7,7 +7,7 @@
       Name="KelbyVP.KelbysChristmas"
       Publisher="CN=kelby"
       Version="0.1.74.0"
-      Uri="https://github.com/KelbyVP/app-releases/releases/download/v0.1.74/kelbys-christmas.msix"
+      Uri="https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-win/kelbys-christmas.msix"
       ProcessorArchitecture="x64" />
   <UpdateSettings>
     <OnLaunch HoursBetweenUpdateChecks="0" ShowPrompt="false" />
