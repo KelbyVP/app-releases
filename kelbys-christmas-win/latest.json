@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.75",
-    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.75/kelbys-christmas.zip",
-    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.75/KelbysChristmas-Setup.exe",
-    "msixUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.75/kelbys-christmas.msix",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.75",
-    "notes":  "The app waits until the update is installed, then it opens. A failed update sends a short note to the family server."
+  "version": "0.1.75",
+  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.75/kelbys-christmas.zip",
+  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.75/KelbysChristmas-Setup.exe",
+  "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-win/kelbys-christmas.msix",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.75",
+  "notes": "The app waits until the update is installed, then it opens. A failed update sends a short note to the family server."
 }
