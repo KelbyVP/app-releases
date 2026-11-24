@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.108",
-    "versionCode":  1795158106,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.108-arm64.apk",
-    "notes":  "- Unselect the search\u0027s ticker when the search box is cleared with its x"
+    "version":  "1.17.109",
+    "versionCode":  1795532502,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.109-arm64.apk",
+    "notes":  "- Center a far-off search match again on phones"
 }

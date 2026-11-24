@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.108",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.108_x64.msix",
+    "version":  "1.17.109",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.109_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Unselect the search\u0027s ticker when the search box is cleared with its x"
+    "notes":  "- Center a far-off search match again on phones"
 }
