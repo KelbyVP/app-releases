@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.110",
-    "versionCode":  1795633288,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.110-arm64.apk",
-    "notes":  "- Give each account a blend pie, with hover details linked to the legend\n- Show the whole portfolio\u0027s blend as a pie chart\n- Move the Portfolio Blend tab between Targets and Lots\n- Add as_of to /account-values JSON\n- Size crypto ETFs, money-market funds and uncategorized funds in the blend\n- Serve account values and blend as JSON with ?format=json\n- Add a Portfolio Blend tab and /account-blend bridge endpoint\n- Check Google Play for updates in the Play build"
+    "version":  "1.17.111",
+    "versionCode":  1795640640,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.111-arm64.apk",
+    "notes":  "- Keep every release tag on main, even when main moves mid-build\n- Hide the asset and scope filters on the Portfolio Blend tab"
 }

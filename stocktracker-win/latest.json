@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.110",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.110_x64.msix",
+    "version":  "1.17.111",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.111_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Give each account a blend pie, with hover details linked to the legend\n- Show the whole portfolio\u0027s blend as a pie chart\n- Move the Portfolio Blend tab between Targets and Lots\n- Add as_of to /account-values JSON\n- Size crypto ETFs, money-market funds and uncategorized funds in the blend\n- Serve account values and blend as JSON with ?format=json\n- Add a Portfolio Blend tab and /account-blend bridge endpoint\n- Check Google Play for updates in the Play build"
+    "notes":  "- Keep every release tag on main, even when main moves mid-build\n- Hide the asset and scope filters on the Portfolio Blend tab"
 }
