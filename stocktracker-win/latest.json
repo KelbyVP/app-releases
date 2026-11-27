@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.111",
-    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.111_x64.msix",
+    "version":  "1.17.112",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-win/KVPStockTracker_1.17.112_x64.msix",
     "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/stocktracker-win",
-    "notes":  "- Keep every release tag on main, even when main moves mid-build\n- Hide the asset and scope filters on the Portfolio Blend tab"
+    "notes":  "- Use the exchange\u0027s reported session hours for the market clock"
 }
