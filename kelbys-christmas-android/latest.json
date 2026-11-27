@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.77",
-    "versionCode":  1795815887,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
-    "notes":  "Fix kid profiles, grown-up PIN setup, and isolated size editing",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
+  "version": "0.1.78",
+  "versionCode": 1795821152,
+  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
+  "notes": "Restore auto-updates, fix desktop layouts, add custom preferences and per-person budgets",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
 }
