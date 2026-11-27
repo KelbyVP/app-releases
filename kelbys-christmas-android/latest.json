@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.75",
-    "versionCode":  1795423386,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
-    "notes":  "The app waits until the update is installed, then it opens. A failed update sends a short note to the family server.",
-    "releaseUrl":  "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
+  "version": "0.1.76",
+  "versionCode": 1795745885,
+  "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
+  "notes": "A finger can scroll from a button, and a tap still opens it. The first list on a form opens. A name tip stays on the screen. An adult can be saved as a child. A kid's sizes stay on that kid. A wish can be for the whole family, a couple, or a group. A person added to a group keeps their name. The phone window fills the screen.",
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
 }
