@@ -1,8 +1,8 @@
 {
-  "version": "0.1.76",
-  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.76/kelbys-christmas.zip",
-  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.76/KelbysChristmas-Setup.exe",
-  "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-win/kelbys-christmas.msix",
-  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.76",
-  "notes": "A finger can scroll from a button, and a tap still opens it. The first list on a form opens. A name tip stays on the screen. An adult can be saved as a child. A kid's sizes stay on that kid. A wish can be for the whole family, a couple, or a group. A person added to a group keeps their name. The phone window fills the screen."
+    "version":  "0.1.77",
+    "packageUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.77/kelbys-christmas.zip",
+    "setupUrl":  "https://github.com/KelbyVP/app-releases/releases/download/v0.1.77/KelbysChristmas-Setup.exe",
+    "msixUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-win/kelbys-christmas.msix",
+    "releaseUrl":  "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.77",
+    "notes":  "Fix kid profiles, grown-up PIN setup, and isolated size editing"
 }
