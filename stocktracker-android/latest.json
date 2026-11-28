@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.112",
-    "versionCode":  1795784496,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.112-arm64.apk",
-    "notes":  "- Use the exchange\u0027s reported session hours for the market clock"
+    "version":  "1.17.113",
+    "versionCode":  1795806114,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.113-arm64.apk",
+    "notes":  "- Restore the Windows window\u0027s last placement, including maximized"
 }
