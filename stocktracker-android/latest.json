@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.113",
-    "versionCode":  1795806114,
-    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.113-arm64.apk",
-    "notes":  "- Restore the Windows window\u0027s last placement, including maximized"
+    "version":  "1.17.114",
+    "versionCode":  1795813250,
+    "apkUrl":  "https://raw.githubusercontent.com/KelbyVP/app-releases/main/stocktracker-android/kvp-stock-tracker-1.17.114-arm64.apk",
+    "notes":  "- Let bridge clients ask for accounts by alias, combining shared aliases"
 }
