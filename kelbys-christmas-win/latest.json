@@ -1,8 +1,7 @@
 {
-  "version": "0.1.79",
-  "packageUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.79/kelbys-christmas.zip",
-  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.79/KelbysChristmas-Setup.exe",
+  "version": "0.1.80",
+  "setupUrl": "https://github.com/KelbyVP/app-releases/releases/download/v0.1.80/KelbysChristmas-Setup.exe",
   "msixUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-win/kelbys-christmas.msix",
-  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.79",
-  "notes": "Fix AppInstaller self-update parameter so Windows preserves auto-update binding"
+  "releaseUrl": "https://github.com/KelbyVP/app-releases/releases/tag/v0.1.80",
+  "notes": "Self-healing Windows Setup auto-update, one-click gift status undo, clearer off-list gift recipient picker, and plain-English settings labels"
 }

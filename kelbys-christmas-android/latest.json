@@ -1,7 +1,7 @@
 {
-  "version": "0.1.79",
-  "versionCode": 1795821926,
+  "version": "0.1.80",
+  "versionCode": 1795830237,
   "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
-  "notes": "Fix AppInstaller self-update parameter so Windows preserves auto-update binding",
+  "notes": "Self-healing Windows Setup auto-update, one-click gift status undo, clearer off-list gift recipient picker, and plain-English settings labels",
   "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
 }
