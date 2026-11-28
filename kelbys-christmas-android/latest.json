@@ -1,7 +1,7 @@
 {
-  "version": "0.1.81",
-  "versionCode": 1795836352,
+  "version": "0.1.82",
+  "versionCode": 1795840863,
   "apkUrl": "https://raw.githubusercontent.com/KelbyVP/app-releases/main/kelbys-christmas-android/kelbys-christmas.apk",
-  "notes": "Sync gift progress (ordered, arrived, wrapped, given) across phones and computers",
+  "notes": "Polish Shopping status pills and budget bar labels, hide raw store IDs, fix 2-column gift layouts, and fix People tab scroll position",
   "releaseUrl": "https://github.com/KelbyVP/app-releases/tree/main/kelbys-christmas-android"
 }
